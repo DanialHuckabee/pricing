@@ -17,16 +17,14 @@
           "type": 2,
           "barems": [
             {
-              "id": "1-10",
-              "startValue": 1,
-              "endValue": 10,
-              "priceOfBarem": 10
+              "id": "10",
+              "packetSize": 10,
+              "priceOfOneItem": 10
             },
             {
-              "id": "11-50",
-              "startValue": 11,
-              "endValue": 50,
-              "priceOfBarem": 8
+              "id": "50",
+              "packetSize": 50,
+              "priceOfOneItem": 8
             }
           ]
         }
@@ -46,16 +44,14 @@
           "type": 2,
           "barems": [
             {
-              "id": "1-10",
-              "startValue": 1,
-              "endValue": 10,
-              "priceOfBarem": 10
+              "id": "10",
+              "packetSize": 10,
+              "priceOfOneItem": 10
             },
             {
-              "id": "11-50",
-              "startValue": 11,
-              "endValue": 50,
-              "priceOfBarem": 8
+              "id": "50",
+              "packetSize": 50,
+              "priceOfOneItem": 8
             }
           ]
         },
