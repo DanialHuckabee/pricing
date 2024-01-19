@@ -1,6 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
+  "currency":"TL",
   "productItems": [
     {
       "id": "EBDYSMASAUSTU",
