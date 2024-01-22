@@ -207,6 +207,27 @@
       "description": "Eski veri entegrasyonu fiyatıdır.",
       "type": 0,
       "priceOfProductItem": 85400
+    },
+    {
+      "id": "KURUMSALEMUHUR",
+      "name": "e-Mühür Entegrasyonu",
+      "description": "e-Mühür Entegrasyonu fiyatıdır.",
+      "type": 0,
+      "priceOfProductItem": 31100
+    },
+    {
+      "id": "KURUMSALSIFRELEME",
+      "name": "Kurumsal şifreleme Entegrasyonu",
+      "description": "Kurumlsal şifreleme Entegrasyonu fiyatıdır.",
+      "type": 0,
+      "priceOfProductItem": 31100
+    },
+    {
+      "id": "EDEVLETBELGEDOGRULAMA",
+      "name": "e-Devlet Belge Doğrulama Entegrasyonu",
+      "description": "e-Devlet Belge Doğrulama Entegrasyonu fiyatıdır.",
+      "type": 0,
+      "priceOfProductItem": 15000
     }
   ]
 }
