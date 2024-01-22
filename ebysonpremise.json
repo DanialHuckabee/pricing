@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description":"22.1.24 17:46 Bülent Düzenledi",
+  "description":"22.1.24 17:50 Bülent Düzenledi",
   "date":"10 Ocak 2023",
   "currency":"TL",
   "productItems": [
@@ -133,15 +133,15 @@
           "id": "EBDYSMOBILEMOBILEIMZATURKTELEKOM",
           "name": "Mobil Imza Turk Telekom",
           "description": "Türk Telekom operatörü entegrasyon fiyatıdır.",
-          "type": 1,
-          "priceOfProductItem": 12200
+          "type": 0,
+          "priceOfProductItem": 24400
         },
         {
           "id": "EBDYSMOBILEMOBILEIMZAVODAFONE",
           "name": "Mobil Imza Vodafone",
           "description": "Vodafone opertörü entegrasyon fiyatıdır.",
-          "type": 1,
-          "priceOfProductItem": 12200
+          "type": 0,
+          "priceOfProductItem": 24400
        }
       ]
     },
