@@ -110,6 +110,13 @@
       "description": "Adam gün olarak alınır",
       "type": 1,
       "priceOfProductItem": 8254
+    },
+    {
+      "id": "EKGELISTIRME2",
+      "name": "Ek Geliştirme Hizmeti",
+      "description": "Adam gün olarak alınır",
+      "type": 1,
+      "priceOfProductItem": 8254
     }
   ]
 }
