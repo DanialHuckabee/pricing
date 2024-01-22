@@ -156,29 +156,57 @@
       "id": "YERINDEDESTEK",
       "name": "Yerinde Destek",
       "description": "",
-      "type": 1,
-      "priceOfProductItem": 7500
+      "type": 0,
+      "childProductItems": [
+        {
+          "id": "YERINDEDESTEKSEHIRICI",
+          "name": "Yerinde destek şehir içi",
+          "description": "Yerinde destek şehir içi fiyatıdır.",
+          "type": 1,
+          "priceOfProductItem": 8580
+        {
+          "id": "YERINDEDESTEKSEHIRDISI",
+          "name": "Yerinde destek şehir dışı",
+          "description": "Yerinde destek şehir dışı fiyatıdır.",
+          "type": 1,
+          "priceOfProductItem": 11880
+       }
+      ]
     },
     {
       "id": "EGITIM",
       "name": "Eğitim",
       "description": "",
-      "type": 1,
-      "priceOfProductItem": 2500
+      "type": 0,
+      "childProductItems": [
+        {
+          "id": "EGITIMSEHIRICI",
+          "name": "Eğitim şehir içi",
+          "description": "Eğitim şehir içi fiyatıdır.",
+          "type": 1,
+          "priceOfProductItem": 8580
+        {
+          "id": "EGITIMSEHIRDISI",
+          "name": "Eğitim şehir dışı",
+          "description": "Eğitim şehir dışı fiyatıdır.",
+          "type": 1,
+          "priceOfProductItem": 11880
+       }
+      ]
     },
     {
       "id": "EKGELISTIRME",
       "name": "Ek Geliştirme Hizmeti",
       "description": "Adam gün olarak alınır",
       "type": 1,
-      "priceOfProductItem": 8254
+      "priceOfProductItem": 12200
     },
     {
-      "id": "EKGELISTIRME2",
-      "name": "Ek Geliştirme Hizmeti",
-      "description": "Adam gün olarak alınır",
-      "type": 1,
-      "priceOfProductItem": 8254
+      "id": "ESKIVERIENTEGRASYONU",
+      "name": "Eski veri entegrasyonu",
+      "description": "Eski veri entegrasyonu fiyatıdır.",
+      "type": 0,
+      "priceOfProductItem": 85400
     }
   ]
 }
