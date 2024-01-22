@@ -164,6 +164,7 @@
           "description": "Yerinde destek şehir içi fiyatıdır.",
           "type": 1,
           "priceOfProductItem": 8580
+        },
         {
           "id": "YERINDEDESTEKSEHIRDISI",
           "name": "Yerinde destek şehir dışı",
@@ -185,6 +186,7 @@
           "description": "Eğitim şehir içi fiyatıdır.",
           "type": 1,
           "priceOfProductItem": 8580
+        },
         {
           "id": "EGITIMSEHIRDISI",
           "name": "Eğitim şehir dışı",
