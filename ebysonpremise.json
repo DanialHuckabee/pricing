@@ -1,37 +1,37 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description":"Kutlı djaskdjsa.",
+  "description":"22.1.24 16:13 Bülent Düzenledi",
   "date":"10 Ocak 2023",
   "currency":"TL",
   "productItems": [
     {
-      "id": "EBDYSMASAUSTU",
-      "name": "EBDYS Masaüstü",
-      "description": "Lorem ipsum",
+      "id": "EBDYSMASAUSTULISANSI",
+      "name": "EBDYS Masaüstü Uygulama Lisansı",
+      "description": "1 yıllık güncelleme ve destek hizmeti dahildir.",
       "type": 0,
-      "priceOfProductItem": 64000,
+      "priceOfProductItem": 120000,
       "childProductItems": [
         {
           "id": "EBDYSMASAUSTUKULLANICILISANSI",
           "name": "Kullanıcı Lisansı",
-          "description": "Lorem ipsum",
+          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı sayısıdır.",
           "type": 2,
           "barems": [
             {
               "id": "1",
               "packetSize": 1,
-              "priceOfOneItem": 1562
+              "priceOfOneItem": 1100
             },
             {
               "id": "10",
               "packetSize": 10,
-              "priceOfOneItem": 1256
+              "priceOfOneItem": 1100
             },
             {
               "id": "50",
               "packetSize": 50,
-              "priceOfOneItem": 1024
+              "priceOfOneItem": 1100
             }
           ]
         }
@@ -39,41 +39,103 @@
     },
     {
       "id": "EBDYSWEB",
-      "name": "EBDYS Web",
-      "description": "",
+      "name": "EBDYS Web Uygulama Lisansı",
+      "description": "1 yıllık güncelleme ve destek hizmeti dahildir. Tüm modern web tarayıcıları ile kullanılabilir. Java ile e-imza atılabilir.",
       "type": 0,
-      "priceOfProductItem": 10000,
+      "priceOfProductItem": 90000,
       "childProductItems": [
         {
           "id": "EBDYSWEBULLANICILISANSI",
           "name": "Kullanıcı Lisansı",
-          "description": "",
+          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı sayısıdır.",
           "type": 2,
           "barems": [
             {
               "id": "1",
               "packetSize": 1,
-              "priceOfOneItem": 15
+              "priceOfOneItem": 400
             },
             {
               "id": "10",
               "packetSize": 10,
-              "priceOfOneItem": 10
+              "priceOfOneItem": 400
             },
             {
               "id": "50",
               "packetSize": 50,
-              "priceOfOneItem": 8
+              "priceOfOneItem": 400
             }
           ]
         },
         {
           "id": "EBDYSWEBJAVASIZIMZA",
           "name": "Javasız İmza",
+          "description": "Web Javasız e-imza lisansıdır.",
+          "type": 0,
+          "priceOfProductItem": 31000
+        }
+      ]
+    },
+    {
+      "id": "EBDYSMOBILE",
+      "name": "EBDYS Mobil Uygulama Lisansı",
+      "description": "1 yıllık güncelleme ve destek hizmeti dahildir. ",
+      "type": 0,
+      "priceOfProductItem": 26000,
+      "childProductItems": [
+        {
+          "id": "EBDYSMOBILEANDROID",
+          "name": "Android Kullanıcı Lisansı",
+          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı sayısıdır.",
+          "type": 2,
+          "barems": [
+            {
+              "id": "1",
+              "packetSize": 1,
+              "priceOfOneItem": 370
+            },
+            {
+              "id": "10",
+              "packetSize": 10,
+              "priceOfOneItem": 370
+            },
+            {
+              "id": "50",
+              "packetSize": 50,
+              "priceOfOneItem": 370
+            }
+          ]
+        },
+        {
+          "id": "EBDYSMOBILEIOS",
+          "name": "IOS Kullanıcı Lisansı",
+          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı sayısıdır.",
+          "type": 2,
+          "barems": [
+            {
+              "id": "1",
+              "packetSize": 1,
+              "priceOfOneItem": 370
+            },
+            {
+              "id": "10",
+              "packetSize": 10,
+              "priceOfOneItem": 370
+            },
+            {
+              "id": "50",
+              "packetSize": 50,
+              "priceOfOneItem": 370
+            }
+          ]
+        },
+        {
+          "id": "EBDYSMOBILEMOBILEIMZA",
+          "name": "Mobil Imza Sunucu Lisansı",
           "description": "",
           "type": 0,
-          "priceOfProductItem": 5000
-        }
+          "priceOfProductItem": 45768
+       }
       ]
     },
     {
