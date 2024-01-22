@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description":"22.1.24 17:01 Bülent Düzenledi",
+  "description":"22.1.24 17:33 Bülent Düzenledi",
   "date":"10 Ocak 2023",
   "currency":"TL",
   "productItems": [
@@ -130,11 +130,18 @@
           ]
         },
         {
-          "id": "EBDYSMOBILEMOBILEIMZA",
-          "name": "Mobil Imza Sunucu Lisansı",
-          "description": "",
-          "type": 0,
-          "priceOfProductItem": 45768
+          "id": "EBDYSMOBILEMOBILEIMZATURKTELEKOM",
+          "name": "Mobil Imza Turk Telekom",
+          "description": "Türk Telekom operatörü entegrasyon fiyatıdır.",
+          "type": 1,
+          "priceOfProductItem": 12200
+        },
+        {
+          "id": "EBDYSMOBILEMOBILEIMZAVODAFONE",
+          "name": "Mobil Imza Vodafone",
+          "description": "Vodafone opertörü entegrasyon fiyatıdır.",
+          "type": 1,
+          "priceOfProductItem": 12200
        }
       ]
     },
@@ -153,48 +160,39 @@
       "priceOfProductItem": 10000
     },
     {
-      "id": "YERINDEDESTEK",
-      "name": "Yerinde Destek",
-      "description": "",
+      "id": "SFTP",
+      "name": "SFTP",
+      "description": "Entegre olunacak banka sayısına göre değişiklik gösterebilir.",
       "type": 0,
-      "childProductItems": [
-        {
-          "id": "YERINDEDESTEKSEHIRICI",
-          "name": "Yerinde destek şehir içi",
-          "description": "Yerinde destek şehir içi fiyatıdır.",
-          "type": 1,
-          "priceOfProductItem": 8580
-        },
-        {
-          "id": "YERINDEDESTEKSEHIRDISI",
-          "name": "Yerinde destek şehir dışı",
-          "description": "Yerinde destek şehir dışı fiyatıdır.",
-          "type": 1,
-          "priceOfProductItem": 11880
-       }
-      ]
+      "priceOfProductItem": 10000
     },
     {
-      "id": "EGITIM",
-      "name": "Eğitim",
+      "id": "YERINDEDESTEKSEHIRICI",
+      "name": "Yerinde Destek Şehir İçi",
+      "description": "Şehir içinde verilecek olan yerinde destek fiyatıdır.",
+      "type": 1,
+      "priceOfProductItem": 8580
+    },
+    {
+      "id": "YERINDEDESTEKSEHIRDISI",
+      "name": "Yerinde Destek Şehir Dışı",
+      "description": "Şehir dışında verilecek olan yerinde destek fiyatıdır.",
+      "type": 1,
+      "priceOfProductItem": 11880
+    },
+    {
+      "id": "EGITIMSEHIRICI",
+      "name": "Eğitim Şehir İçi",
       "description": "",
-      "type": 0,
-      "childProductItems": [
-        {
-          "id": "EGITIMSEHIRICI",
-          "name": "Eğitim şehir içi",
-          "description": "Eğitim şehir içi fiyatıdır.",
-          "type": 1,
-          "priceOfProductItem": 8580
-        },
-        {
-          "id": "EGITIMSEHIRDISI",
-          "name": "Eğitim şehir dışı",
-          "description": "Eğitim şehir dışı fiyatıdır.",
-          "type": 1,
-          "priceOfProductItem": 11880
-       }
-      ]
+      "type": 1,
+      "priceOfProductItem": 8580
+    },
+    {
+      "id": "EGITIMSEHIRDISI",
+      "name": "Eğitim Şehir Dışı",
+      "description": "",
+      "type": 1,
+      "priceOfProductItem": 11880
     },
     {
       "id": "EKGELISTIRME",
