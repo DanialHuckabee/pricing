@@ -1,16 +1,16 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description":"Efe tarafından oluşturuldu.",
+  "description":"Kutlı djaskdjsa.",
   "date":"10 Ocak 2023",
   "currency":"TL",
   "productItems": [
     {
       "id": "EBDYSMASAUSTU",
-      "name": "EBDYS Masaüstü 222222",
-      "description": "Lorem ipsum 2222",
+      "name": "EBDYS Masaüstü",
+      "description": "Lorem ipsum",
       "type": 0,
-      "priceOfProductItem": 10000,
+      "priceOfProductItem": 62000,
       "childProductItems": [
         {
           "id": "EBDYSMASAUSTUKULLANICILISANSI",
@@ -21,17 +21,17 @@
             {
               "id": "1",
               "packetSize": 1,
-              "priceOfOneItem": 15
+              "priceOfOneItem": 1562
             },
             {
               "id": "10",
               "packetSize": 10,
-              "priceOfOneItem": 10
+              "priceOfOneItem": 1256
             },
             {
               "id": "50",
               "packetSize": 50,
-              "priceOfOneItem": 8
+              "priceOfOneItem": 1024
             }
           ]
         }
@@ -95,7 +95,7 @@
       "name": "Yerinde Destek",
       "description": "",
       "type": 1,
-      "priceOfProductItem": 2500
+      "priceOfProductItem": 7500
     },
     {
       "id": "EGITIM",
@@ -103,6 +103,13 @@
       "description": "",
       "type": 1,
       "priceOfProductItem": 2500
+    },
+    {
+      "id": "EKGELISTIRME",
+      "name": "Ek Geliştirme Hizmeti",
+      "description": "Adam gün olarak alınır",
+      "type": 1,
+      "priceOfProductItem": 8254
     }
   ]
 }
