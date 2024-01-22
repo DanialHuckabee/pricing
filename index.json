@@ -1,10 +1,10 @@
 [
-{
-"name":"EBYS On-Premise",
-"url":"https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebysonpremise.json"
-},
-{
-"name":"EBYS On-Premise 2",
-"url":"https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebysonpremise.json"
-}
+  {
+    "name":"EBYS On-Premise",
+    "url":"https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebysonpremise.json"
+  },
+  {
+    "name":"EBYS On-Premise 2",
+    "url":"https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebysonpremise.json"
+  }
 ]
