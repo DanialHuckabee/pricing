@@ -1,9 +1,9 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description":"22.1.24 17:50 Bülent Düzenledi",
-  "date":"10 Ocak 2023",
-  "currency":"TL",
+  "description": "22.1.24 17:50 Bülent Düzenledi",
+  "date": "10 Ocak 2023",
+  "currency": "TL",
   "productItems": [
     {
       "id": "EBDYSMASAUSTULISANSI",
@@ -142,7 +142,7 @@
           "description": "Vodafone opertörü entegrasyon fiyatıdır.",
           "type": 0,
           "priceOfProductItem": 24400
-       }
+        }
       ]
     },
     {
@@ -229,5 +229,12 @@
       "type": 0,
       "priceOfProductItem": 15000
     }
+  ],
+  "terms": [
+    { "text": "Fiyatlara, tek bir sunucu üzerine kurulum dahildir." },
+    {
+      "text": "Garanti sonrası yıllık bakım ve destek sözleşmesi, ilk fiyat teklif bedelinin %18’i olacak şekilde gerçekleştirilir. Bakım, güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır. Yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve Yıllık Bakım ve Destek Hizmeti Bedeli yeni bedel üzerinden hesaplanacaktır. Yıllık Bakım ve Destek Bedeli her yıl TÜFE+Yİ-ÜFE/2 oranında artırılacaktır."
+    },
+    { "text": "Garanti/Bakım kapsamına dahil olan hizmetler;", "children": [{ "text": "Telefonla destek" }, { "text": "Telefonla destek" }] }
   ]
 }
