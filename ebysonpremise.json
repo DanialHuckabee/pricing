@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description": "25.01.2024 16:20 Bülent düzenledi.",
+  "description": "25.01.2024 16:32 Bülent düzenledi.",
   "date": "10 Ocak 2023",
   "currency": "TL",
   "productItems": [
@@ -234,10 +234,10 @@
     { "text": "Teklifimiz KDV hariç olarak veriilmiştir. Faturalandırma aşamasında, teklifte yer alan uygun kalemler, 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olarak faturalandırılacaktır."},
     { "text": "Fiyatlara, tek bir sunucu üzerine kurulum dahildir." },
     {
-      "text": "Teklifimize 1 yıllık "Güncelleme ve Destek Hizmeti" dahildir. Güncelleme ve Destek Hizmeti sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
+      "text": "Teklifimize 1 yıllık Güncelleme ve Destek Hizmeti dahildir. 'Güncelleme ve Destek Hizmeti' sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
     },
     {
-      "text" : "Sözleşme imza tarihinden 1 yıl sonra yapılacak güncelleme ve destek sözleşmesinin bedeli hesaplanırken; sözleşme süresi boyunca yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve "Yıllık Güncelleme ve Destek Hizmeti Bedeli" ilk fiyat teklif bedeli ile sözleşme süresi boyunca eklenen modül ve hizmetler toplamının %20'si oranında Yİ-ÜFE ile güncellenecektir."
+      "text" : "Sözleşme imza tarihinden 1 yıl sonra yapılacak güncelleme ve destek sözleşmesinin bedeli hesaplanırken; sözleşme süresi boyunca yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve Yıllık Güncelleme ve Destek Hizmeti Bedeli ilk fiyat teklif bedeli ile sözleşme süresi boyunca eklenen modül ve hizmetler toplamının %20'si oranında Yİ-ÜFE ile güncellenecektir."
     },
     { "text": "Garanti/Bakım kapsamına dahil olan hizmetler;", "children": [{ "text": "Telefonla destek" }, { "text": "Telefonla destek" }] },
     {"text" : "Teklif onayı kaşe imzalı olarak kuruma iletilmelidir."},
