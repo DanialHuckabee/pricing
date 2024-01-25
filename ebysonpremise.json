@@ -10,6 +10,7 @@
       "name": "EBDYS Masaüstü Uygulama Lisansı",
       "description": "1 yıllık güncelleme ve destek hizmeti dahildir.",
       "type": 0,
+      "unit": "",
       "priceOfProductItem": 120000,
       "childProductItems": [
         {
@@ -17,6 +18,7 @@
           "name": "Kullanıcı Lisansı",
           "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
           "type": 2,
+          "unit": "Adet",
           "barems": [
             {
               "id": "1",
@@ -42,6 +44,7 @@
       "name": "EBDYS Web Uygulama Lisansı",
       "description": "1 yıllık güncelleme ve destek hizmeti dahildir. Tüm modern web tarayıcıları ile kullanılabilir. Java ile e-imza atılabilir.",
       "type": 0,
+      "unit": "",
       "priceOfProductItem": 90000,
       "childProductItems": [
         {
@@ -49,6 +52,7 @@
           "name": "Kullanıcı Lisansı",
           "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
           "type": 2,
+          "unit": "Adet",
           "barems": [
             {
               "id": "1",
@@ -72,6 +76,7 @@
           "name": "Javasız e-İmza",
           "description": "Web uygulamasında işletim sistemi ve tarayıcı bağımsız olarak, son kullanıcı bilgisayarında Java ihtiyacı olmadan e-imza atılmasını sağlayan uygulamadır.",
           "type": 0,
+          "unit": "",
           "priceOfProductItem": 31000
         }
       ]
@@ -81,6 +86,7 @@
       "name": "EBDYS Mobil Uygulama Lisansı",
       "description": "1 yıllık güncelleme ve destek hizmeti dahildir. ",
       "type": 0,
+      "unit": "",
       "priceOfProductItem": 26000,
       "childProductItems": [
         {
@@ -88,6 +94,7 @@
           "name": "Android Kullanıcı Lisansı",
           "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
           "type": 2,
+          "unit": "Adet",
           "barems": [
             {
               "id": "1",
@@ -111,6 +118,7 @@
           "name": "iOS Kullanıcı Lisansı",
           "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
           "type": 2,
+          "unit": "Adet",
           "barems": [
             {
               "id": "1",
@@ -134,6 +142,7 @@
           "name": "Mobil İmza-Türk Telekom",
           "description": "Türk Telekom mobil imza entegrasyon fiyatıdır.",
           "type": 0,
+          "unit": "",
           "priceOfProductItem": 24400
         },
         {
@@ -141,6 +150,7 @@
           "name": "Mobil İmza-Vodafone",
           "description": "Vodafone mobil imza entegrasyon fiyatıdır.",
           "type": 0,
+          "unit": "",
           "priceOfProductItem": 24400
         }
       ]
@@ -150,6 +160,7 @@
       "name": "KEP Entegrasyonu",
       "description": "",
       "type": 0,
+      "unit": "",
       "priceOfProductItem": 10000
     },
     {
@@ -157,6 +168,7 @@
       "name": "UETS Entegrasyonu",
       "description": "",
       "type": 0,
+      "unit": "",
       "priceOfProductItem": 10000
     },
     {
@@ -164,6 +176,7 @@
       "name": "SFTP Entegrasyonu",
       "description": "Banka sayı limiti olmaksızın tek seferlik ücretlendirilir.",
       "type": 0,
+      "unit": "",
       "priceOfProductItem": 10000
     },
     {
@@ -171,6 +184,7 @@
       "name": "Yerinde Destek-Şehir İçi",
       "description": "Ankara sınırları içinde verilecek olan yerinde destek fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
       "type": 1,
+      "unit": "adam/gün",
       "priceOfProductItem": 8580
     },
     {
@@ -178,6 +192,7 @@
       "name": "Yerinde Destek-Şehir Dışı",
       "description": "Ankara dışında verilecek olan yerinde destek fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
       "type": 1,
+      "unit": "adam/gün",
       "priceOfProductItem": 11880
     },
     {
@@ -185,6 +200,7 @@
       "name": "Eğitim-Şehir İçi",
       "description": "Ankara sınırları içinde verilecek olan eğitim fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
       "type": 1,
+      "unit": "adam/gün",
       "priceOfProductItem": 8580
     },
     {
@@ -192,6 +208,7 @@
       "name": "Eğitim-Şehir Dışı",
       "description": "Ankara dışında verilecek olan eğitim fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
       "type": 1,
+      "unit": "adam/gün",
       "priceOfProductItem": 11880
     },
     {
@@ -199,6 +216,7 @@
       "name": "Ek Geliştirme Hizmeti",
       "description": "Adam/gün olarak ihtiyaç oranında alınabilir.",
       "type": 1,
+      "unit": "adam/gün",
       "priceOfProductItem": 12200
     },
     {
@@ -206,6 +224,7 @@
       "name": "Eski Veri Entegrasyonu",
       "description": "Tek seferlik bedeldir.",
       "type": 0,
+      "unit": "",
       "priceOfProductItem": 85400
     },
     {
@@ -213,6 +232,7 @@
       "name": "e-Mühür Entegrasyonu",
       "description": "",
       "type": 0,
+      "unit": "",
       "priceOfProductItem": 31100
     },
     {
@@ -220,6 +240,7 @@
       "name": "Şifreleme Mekanizması Entegrasyonu",
       "description": "",
       "type": 0,
+      "unit": "",
       "priceOfProductItem": 31100
     },
     {
@@ -227,21 +248,24 @@
       "name": "e-Devlet'ten Belge Doğrulama Entegrasyonu",
       "description": "",
       "type": 0,
+      "unit": "",
       "priceOfProductItem": 15000
     }
   ],
   "terms": [
-    { "text": "Teklifimiz KDV hariç olarak veriilmiştir. Faturalandırma aşamasında, teklifte yer alan uygun kalemler, 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olarak faturalandırılacaktır."},
+    { "text": "Teklifimiz KDV hariç olarak veriilmiştir. Faturalandırma aşamasında, teklifte yer alan uygun kalemler, 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olarak faturalandırılacaktır." },
     { "text": "Fiyatlara, tek bir sunucu üzerine kurulum dahildir." },
     {
       "text": "Teklifimize 1 yıllık Güncelleme ve Destek Hizmeti dahildir. 'Güncelleme ve Destek Hizmeti' sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
     },
     {
-      "text" : "Sözleşme imza tarihinden 1 yıl sonra yapılacak güncelleme ve destek sözleşmesinin bedeli hesaplanırken; sözleşme süresi boyunca yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve Yıllık Güncelleme ve Destek Hizmeti Bedeli ilk fiyat teklif bedeli ile sözleşme süresi boyunca eklenen modül ve hizmetler toplamının %20'si oranında Yİ-ÜFE ile güncellenecektir."
+      "text": "Sözleşme imza tarihinden 1 yıl sonra yapılacak güncelleme ve destek sözleşmesinin bedeli hesaplanırken; sözleşme süresi boyunca yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve Yıllık Güncelleme ve Destek Hizmeti Bedeli ilk fiyat teklif bedeli ile sözleşme süresi boyunca eklenen modül ve hizmetler toplamının %20'si oranında Yİ-ÜFE ile güncellenecektir."
     },
     { "text": "Garanti/Bakım kapsamına dahil olan hizmetler;", "children": [{ "text": "Telefonla destek" }, { "text": "Telefonla destek" }] },
-    {"text" : "Teklif onayı kaşe imzalı olarak kuruma iletilmelidir."},
-    {"text" : "Teklif onayı ile birlikte, ödemenin %30'u peşin olarak yapılacak ve kurulum işlemleri başlatılacaktır.  Kurulum ve eğitim süreçleri tamamlandıktan sonra kalan %70 oranındaki bedel tek seferde ödenecektir."},
-    {"text" : "Sistemde bulunmayan ek bir özellik talep edilmesi durumunda, yazılım ekibinin analiz ve değerlendirmesi sonucu, “Ek Geliştirme Hizmeti” kapsamında geliştirmenin özelliğine göre adam/gün belirlenerek maliyet bilgisi kurum ile paylaşılacaktır. Ek Geliştirme Hizmeti alınması durumunda 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olacaktır."}
+    { "text": "Teklif onayı kaşe imzalı olarak kuruma iletilmelidir." },
+    { "text": "Teklif onayı ile birlikte, ödemenin %30'u peşin olarak yapılacak ve kurulum işlemleri başlatılacaktır.  Kurulum ve eğitim süreçleri tamamlandıktan sonra kalan %70 oranındaki bedel tek seferde ödenecektir." },
+    {
+      "text": "Sistemde bulunmayan ek bir özellik talep edilmesi durumunda, yazılım ekibinin analiz ve değerlendirmesi sonucu, “Ek Geliştirme Hizmeti” kapsamında geliştirmenin özelliğine göre adam/gün belirlenerek maliyet bilgisi kurum ile paylaşılacaktır. Ek Geliştirme Hizmeti alınması durumunda 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olacaktır."
+    }
   ]
 }
