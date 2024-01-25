@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description": "23.01.2024 12:12 Efe düzenledi.",
+  "description": "25.01.2024 16:06 Bülent düzenledi.",
   "date": "10 Ocak 2023",
   "currency": "TL",
   "productItems": [
@@ -15,7 +15,7 @@
         {
           "id": "EBDYSMASAUSTUKULLANICILISANSI",
           "name": "Kullanıcı Lisansı",
-          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı sayısıdır.",
+          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
           "type": 2,
           "barems": [
             {
@@ -47,7 +47,7 @@
         {
           "id": "EBDYSWEBULLANICILISANSI",
           "name": "Kullanıcı Lisansı",
-          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı sayısıdır.",
+          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
           "type": 2,
           "barems": [
             {
@@ -69,8 +69,8 @@
         },
         {
           "id": "EBDYSWEBJAVASIZIMZA",
-          "name": "Javasız İmza",
-          "description": "Web Javasız e-imza lisansıdır.",
+          "name": "Javasız e-İmza",
+          "description": "Web uygulamasında işletim sistemi ve tarayıcı bağımsız olarak, son kullanıcı bilgisayarında Java ihtiyacı olmadan e-imza atılmasını sağlayan uygulamadır.",
           "type": 0,
           "priceOfProductItem": 31000
         }
@@ -86,7 +86,7 @@
         {
           "id": "EBDYSMOBILEANDROID",
           "name": "Android Kullanıcı Lisansı",
-          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı sayısıdır.",
+          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
           "type": 2,
           "barems": [
             {
@@ -108,8 +108,8 @@
         },
         {
           "id": "EBDYSMOBILEIOS",
-          "name": "IOS Kullanıcı Lisansı",
-          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı sayısıdır.",
+          "name": "iOS Kullanıcı Lisansı",
+          "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
           "type": 2,
           "barems": [
             {
@@ -131,15 +131,15 @@
         },
         {
           "id": "EBDYSMOBILEMOBILEIMZATURKTELEKOM",
-          "name": "Mobil Imza Turk Telekom",
-          "description": "Türk Telekom operatörü entegrasyon fiyatıdır.",
+          "name": "Mobil İmza-Türk Telekom",
+          "description": "Türk Telekom mobil imza entegrasyon fiyatıdır.",
           "type": 0,
           "priceOfProductItem": 24400
         },
         {
           "id": "EBDYSMOBILEMOBILEIMZAVODAFONE",
-          "name": "Mobil Imza Vodafone",
-          "description": "Vodafone opertörü entegrasyon fiyatıdır.",
+          "name": "Mobil İmza-Vodafone",
+          "description": "Vodafone mobil imza entegrasyon fiyatıdır.",
           "type": 0,
           "priceOfProductItem": 24400
         }
@@ -147,94 +147,101 @@
     },
     {
       "id": "KEP",
-      "name": "KEP",
+      "name": "KEP Entegrasyonu",
       "description": "",
       "type": 0,
       "priceOfProductItem": 10000
     },
     {
       "id": "UETS",
-      "name": "UETS",
+      "name": "UETS Entegrasyonu",
       "description": "",
       "type": 0,
       "priceOfProductItem": 10000
     },
     {
       "id": "SFTP",
-      "name": "SFTP",
-      "description": "Entegre olunacak banka sayısına göre değişiklik gösterebilir.",
+      "name": "SFTP Entegrasyonu",
+      "description": "Banka sayı limiti olmaksızın tek seferlik ücretlendirilir.",
       "type": 0,
       "priceOfProductItem": 10000
     },
     {
       "id": "YERINDEDESTEKSEHIRICI",
-      "name": "Yerinde Destek Şehir İçi",
-      "description": "Şehir içinde verilecek olan yerinde destek fiyatıdır.",
+      "name": "Yerinde Destek-Şehir İçi",
+      "description": "Ankara sınırları içinde verilecek olan yerinde destek fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
       "type": 1,
       "priceOfProductItem": 8580
     },
     {
       "id": "YERINDEDESTEKSEHIRDISI",
-      "name": "Yerinde Destek Şehir Dışı",
-      "description": "Şehir dışında verilecek olan yerinde destek fiyatıdır.",
+      "name": "Yerinde Destek-Şehir Dışı",
+      "description": "Ankara dışında verilecek olan yerinde destek fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
       "type": 1,
       "priceOfProductItem": 11880
     },
     {
       "id": "EGITIMSEHIRICI",
-      "name": "Eğitim Şehir İçi",
-      "description": "",
+      "name": "Eğitim-Şehir İçi",
+      "description": "Ankara sınırları içinde verilecek olan eğitim fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
       "type": 1,
       "priceOfProductItem": 8580
     },
     {
       "id": "EGITIMSEHIRDISI",
-      "name": "Eğitim Şehir Dışı",
-      "description": "",
+      "name": "Eğitim-Şehir Dışı",
+      "description": "Ankara dışında verilecek olan eğitim fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
       "type": 1,
       "priceOfProductItem": 11880
     },
     {
       "id": "EKGELISTIRME",
       "name": "Ek Geliştirme Hizmeti",
-      "description": "Adam gün olarak alınır",
+      "description": "Adam/gün olarak ihtiyaç oranında alınabilir.",
       "type": 1,
       "priceOfProductItem": 12200
     },
     {
       "id": "ESKIVERIENTEGRASYONU",
-      "name": "Eski veri entegrasyonu",
-      "description": "Eski veri entegrasyonu fiyatıdır.",
+      "name": "Eski Veri Entegrasyonu",
+      "description": "Tek seferlik bedeldir.",
       "type": 0,
       "priceOfProductItem": 85400
     },
     {
       "id": "KURUMSALEMUHUR",
       "name": "e-Mühür Entegrasyonu",
-      "description": "e-Mühür Entegrasyonu fiyatıdır.",
+      "description": "",
       "type": 0,
       "priceOfProductItem": 31100
     },
     {
       "id": "KURUMSALSIFRELEME",
-      "name": "Kurumsal şifreleme Entegrasyonu",
-      "description": "Kurumlsal şifreleme Entegrasyonu fiyatıdır.",
+      "name": "Şifreleme Mekanizması Entegrasyonu",
+      "description": "",
       "type": 0,
       "priceOfProductItem": 31100
     },
     {
       "id": "EDEVLETBELGEDOGRULAMA",
-      "name": "e-Devlet Belge Doğrulama Entegrasyonu",
-      "description": "e-Devlet Belge Doğrulama Entegrasyonu fiyatıdır.",
+      "name": "e-Devlet'ten Belge Doğrulama Entegrasyonu",
+      "description": "",
       "type": 0,
       "priceOfProductItem": 15000
     }
   ],
   "terms": [
+    { "text": "Teklifimiz KDV hariç olarak veriilmiştir. Faturalandırma aşamasında, teklifte yer alan uygun kalemler, 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olarak faturalandırılacaktır."),
     { "text": "Fiyatlara, tek bir sunucu üzerine kurulum dahildir." },
     {
-      "text": "Garanti sonrası yıllık bakım ve destek sözleşmesi, ilk fiyat teklif bedelinin %18’i olacak şekilde gerçekleştirilir. Bakım, güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır. Yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve Yıllık Bakım ve Destek Hizmeti Bedeli yeni bedel üzerinden hesaplanacaktır. Yıllık Bakım ve Destek Bedeli her yıl TÜFE+Yİ-ÜFE/2 oranında artırılacaktır."
+      "text": "Teklifimize 1 yıllık "Güncelleme ve Destek Hizmeti" dahildir. Güncelleme ve Destek Hizmeti sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
     },
-    { "text": "Garanti/Bakım kapsamına dahil olan hizmetler;", "children": [{ "text": "Telefonla destek" }, { "text": "Telefonla destek" }] }
+    {
+      "text" : "Sözleşme imza tarihinden 1 yıl sonra yapılacak güncelleme ve destek sözleşmesinin bedeli hesaplanırken; sözleşme süresi boyunca yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve "Yıllık Güncelleme ve Destek Hizmeti Bedeli" ilk fiyat teklif bedeli ile sözleşme süresi boyunca eklenen modül ve hizmetler toplamının %20'si oranında Yİ-ÜFE ile güncellenecektir."
+    },
+    { "text": "Garanti/Bakım kapsamına dahil olan hizmetler;", "children": [{ "text": "Telefonla destek" }, { "text": "Telefonla destek" }] },
+    {"text" : "Teklif onayı kaşe imzalı olarak kuruma iletilmelidir."},
+    {"text" : "Teklif onayı ile birlikte, ödemenin %30'u peşin olarak yapılacak ve kurulum işlemleri başlatılacaktır.  Kurulum ve eğitim süreçleri tamamlandıktan sonra kalan %70 oranındaki bedel tek seferde ödenecektir."},
+    {"text" : "Sistemde bulunmayan ek bir özellik talep edilmesi durumunda, yazılım ekibinin analiz ve değerlendirmesi sonucu, “Ek Geliştirme Hizmeti” kapsamında geliştirmenin özelliğine göre adam/gün belirlenerek maliyet bilgisi kurum ile paylaşılacaktır. Ek Geliştirme Hizmeti alınması durumunda 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olacaktır."}
   ]
 }
