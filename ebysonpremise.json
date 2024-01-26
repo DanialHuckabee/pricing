@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description": "25.01.2024 16:32 Bülent düzenledi.",
+  "description": "26.01.2024 10:08 Bülent düzenledi.",
   "date": "10 Ocak 2023",
   "currency": "TL",
   "productItems": [
@@ -259,13 +259,13 @@
       "text": "Teklifimize 1 yıllık Güncelleme ve Destek Hizmeti dahildir. 'Güncelleme ve Destek Hizmeti' sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
     },
     {
-      "text": "Sözleşme imza tarihinden 1 yıl sonra yapılacak güncelleme ve destek sözleşmesinin bedeli hesaplanırken; sözleşme süresi boyunca yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve Yıllık Güncelleme ve Destek Hizmeti Bedeli ilk fiyat teklif bedeli ile sözleşme süresi boyunca eklenen modül ve hizmetler toplamının %20'si oranında Yİ-ÜFE ile güncellenecektir."
+      "text": "Sözleşme imza tarihinden 1 yıl sonra yapılacak güncelleme ve destek sözleşmesinin bedeli hesaplanırken; sözleşme süresi boyunca yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve 'Yıllık Güncelleme ve Destek Hizmeti Bedeli' ilk fiyat teklif bedeli ile sözleşme süresi boyunca eklenen modül ve hizmetler toplamının %20'si oranında Yİ-ÜFE ile güncellenecektir."
     },
-    { "text": "Garanti/Bakım kapsamına dahil olan hizmetler;", "children": [{ "text": "Telefonla destek" }, { "text": "Telefonla destek" }] },
+    { "text": "Garanti/Bakım kapsamına dahil olan hizmetler;", "children": [{ "text": "Telefonla destek" }, {"text": "Mail ve Zoho üzerinden destek"}, { "text": "Güncelle işlemleri" }, {"text" : "Hata gidermeleri"}] },
     { "text": "Teklif onayı kaşe imzalı olarak kuruma iletilmelidir." },
     { "text": "Teklif onayı ile birlikte, ödemenin %30'u peşin olarak yapılacak ve kurulum işlemleri başlatılacaktır.  Kurulum ve eğitim süreçleri tamamlandıktan sonra kalan %70 oranındaki bedel tek seferde ödenecektir." },
     {
-      "text": "Sistemde bulunmayan ek bir özellik talep edilmesi durumunda, yazılım ekibinin analiz ve değerlendirmesi sonucu, “Ek Geliştirme Hizmeti” kapsamında geliştirmenin özelliğine göre adam/gün belirlenerek maliyet bilgisi kurum ile paylaşılacaktır. Ek Geliştirme Hizmeti alınması durumunda 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olacaktır."
+      "text": "Sistemde bulunmayan ek bir özellik talep edilmesi durumunda, yazılım ekibinin analiz ve değerlendirmesi sonucu, 'Ek Geliştirme Hizmeti' kapsamında geliştirmenin özelliğine göre adam/gün belirlenerek maliyet bilgisi kurum ile paylaşılacaktır. Ek Geliştirme Hizmeti alınması durumunda 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olacaktır."
     }
   ]
 }
