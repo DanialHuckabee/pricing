@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description": "26.01.2024 12:02 Bülent düzenledi.",
+  "description": "26.01.2024 12:19 Bülent düzenledi.",
   "date": "10 Ocak 2023",
   "currency": "TL",
   "productItems": [
@@ -237,7 +237,7 @@
     {
       "text": "Sözleşme imza tarihinden 1 yıl sonra yapılacak güncelleme ve destek sözleşmesinin bedeli hesaplanırken; sözleşme süresi boyunca yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve Yıllık Güncelleme ve Destek Hizmeti Bedeli ilk fiyat teklif bedeli ile sözleşme süresi boyunca eklenen modül ve hizmetler toplamının %20'si oranında TÜFE+Yİ-ÜFE/2 ile güncellenecektir."
     },
-    { "text": "Güncelleme ve Destek kapsamına dahil olan hizmetler:", "children": [{ "text": "Telefonla destek" }, { "text": "Uzaktan erişim ile destek." }, { "text": "Sözleşme süresi boyunca güncelleme işlemleri" }, { "text" : "Sözleşme süresi boyunca hata gidermeleri" }, { "text": "Mevzuat değişiklerinin uyarlanması." }] },
+    { "text": "Güncelleme ve Destek kapsamına dahil olan hizmetler:", "children": [{ "text": "Telefonla destek" }, { "text": "Uzaktan erişim ile destek" }, { "text": "Sözleşme süresi boyunca güncelleme işlemleri" }, { "text" : "Sözleşme süresi boyunca hata gidermeleri" }, { "text": "Mevzuat değişiklerinin uyarlanması" }] },
     { "text": "Teklifimizin uygun bulunması durumunda, teklif onayı kaşe imzalı olarak Seneka'ya iletilmelidir." },
     { "text": "Teklif onayı ile birlikte, teklifte yer alan toplam bedelin %30'u peşin olarak yapılacak ve kurulum işlemleri başlatılacaktır.  Kurulum ve eğitim süreçleri tamamlandıktan sonra kalan %70 oranındaki bedel tek seferde ödenecektir." },
     {
