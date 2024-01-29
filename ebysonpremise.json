@@ -209,7 +209,7 @@
       "description": "",
       "type": 0,
       "unit": "",
-      "priceOfProductItem": 31100
+      "priceOfProductItem": 40350
     },
     {
       "id": "KURUMSALSIFRELEME",
@@ -217,7 +217,7 @@
       "description": "",
       "type": 0,
       "unit": "",
-      "priceOfProductItem": 31100
+      "priceOfProductItem": 40350
     },
     {
       "id": "EDEVLETBELGEDOGRULAMA",
@@ -225,7 +225,7 @@
       "description": "",
       "type": 0,
       "unit": "",
-      "priceOfProductItem": 15000
+      "priceOfProductItem": 19100
     }
   ],
   "terms": [
