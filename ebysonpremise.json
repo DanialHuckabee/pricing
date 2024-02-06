@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description": "06.02.2024 10:22 Bülent düzenledi.",
+  "description": "06.02.2024 12:42 Bülent düzenledi.",
   "date": "10 Ocak 2023",
   "currency": "TL",
   "productItems": [
@@ -62,12 +62,12 @@
             {
               "id": "10",
               "packetSize": 10,
-              "priceOfOneItem": 400
+              "priceOfOneItem": 300
             },
             {
               "id": "50",
               "packetSize": 50,
-              "priceOfOneItem": 400
+              "priceOfOneItem": 200
             }
           ]
         },
@@ -104,12 +104,12 @@
             {
               "id": "10",
               "packetSize": 10,
-              "priceOfOneItem": 370
+              "priceOfOneItem": 270
             },
             {
               "id": "50",
               "packetSize": 50,
-              "priceOfOneItem": 370
+              "priceOfOneItem": 170
             }
           ]
         },
