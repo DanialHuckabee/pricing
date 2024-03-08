@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description": "06.02.2024 12:42 Bülent düzenledi.",
+  "description": "08.03.2024 09:36 Bülent düzenledi.",
   "date": "10 Ocak 2023",
   "currency": "TL",
   "productItems": [
@@ -146,6 +146,14 @@
       "type": 0,
       "unit": "",
       "priceOfProductItem": 35000
+    },
+    {
+      "id": "Detsis",
+      "name": "Detsis Entegrasyonu",
+      "description": "",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 30000
     },
     {
       "id": "SFTP",
