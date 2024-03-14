@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description": "08.03.2024 09:36 Bülent düzenledi.",
+  "description": "14.03.2024 09:45 Bülent düzenledi.",
   "date": "10 Ocak 2023",
   "currency": "TL",
   "productItems": [
@@ -154,6 +154,14 @@
       "type": 0,
       "unit": "",
       "priceOfProductItem": 30000
+    },
+    {
+      "id": "Proliz OBS",
+      "name": "Proliz Öğrenci Bilgi Sistemi Entegrasyonu",
+      "description": "",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 60000
     },
     {
       "id": "SFTP",
