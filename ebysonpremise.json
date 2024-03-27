@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description": "14.03.2024 09:45 Bülent düzenledi.",
+  "description": "27.03.2024 09:25 Bülent düzenledi.",
   "date": "10 Ocak 2023",
   "currency": "TL",
   "productItems": [
@@ -130,6 +130,14 @@
           "priceOfProductItem": 24400
         }
       ]
+    },
+    {
+      "id": "KURULUM",
+      "name": "Ebys Kurulum",
+      "description": "",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 30000
     },
     {
       "id": "KEP",
