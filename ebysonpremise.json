@@ -1,7 +1,7 @@
 {
   "id": "EBYS",
   "name": "EBYS",
-  "description": "27.03.2024 09:25 Bülent düzenledi.",
+  "description": "12.09.2024 13:40 Bülent düzenledi.",
   "date": "10 Ocak 2023",
   "currency": "TL",
   "productItems": [
@@ -170,6 +170,14 @@
       "type": 0,
       "unit": "",
       "priceOfProductItem": 60000
+    },
+    {
+      "id": "Neticet",
+      "name": "Netiket Personel Bilgi Sistem Entegrasyonu",
+      "description": "",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 70000
     },
     {
       "id": "SFTP",
