@@ -1,0 +1,279 @@
+{
+    "id": "EBYS2025",
+    "name": "EBYS2025",
+    "description": "03.01.2025 11:15 Bülent düzenledi.",
+    "date": "03 Ocak 2025",
+    "currency": "TL",
+    "productItems": [
+      {
+        "id": "EBDYSMASAUSTULISANSI",
+        "name": "EBDYS Masaüstü Uygulama Lisansı",
+        "description": "1 yıllık güncelleme ve destek hizmeti dahildir.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 120000,
+        "childProductItems": [
+          {
+            "id": "EBDYSMASAUSTUKULLANICILISANSI",
+            "name": "Kullanıcı Lisansı",
+            "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
+            "type": 2,
+            "unit": "Kullanıcı",
+            "barems": [
+              {
+                "id": "1",
+                "packetSize": 1,
+                "priceOfOneItem": 1100
+              },
+              {
+                "id": "10",
+                "packetSize": 10,
+                "priceOfOneItem": 750
+              },
+              {
+                "id": "50",
+                "packetSize": 50,
+                "priceOfOneItem": 500
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EBDYSWEB",
+        "name": "EBDYS Web Uygulama Lisansı",
+        "description": "1 yıllık güncelleme ve destek hizmeti dahildir. Tüm modern web tarayıcıları ile kullanılabilir. Java ile e-imza atılabilir.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 90000,
+        "childProductItems": [
+          {
+            "id": "EBDYSWEBULLANICILISANSI",
+            "name": "Kullanıcı Lisansı",
+            "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
+            "type": 2,
+            "unit": "Kullanıcı",
+            "barems": [
+              {
+                "id": "1",
+                "packetSize": 1,
+                "priceOfOneItem": 400
+              },
+              {
+                "id": "10",
+                "packetSize": 10,
+                "priceOfOneItem": 300
+              },
+              {
+                "id": "50",
+                "packetSize": 50,
+                "priceOfOneItem": 200
+              }
+            ]
+          },
+          {
+            "id": "EBDYSWEBJAVASIZIMZA",
+            "name": "Javasız e-İmza",
+            "description": "Web uygulamasında işletim sistemi ve tarayıcı bağımsız olarak, son kullanıcı bilgisayarında Java ihtiyacı olmadan e-imza atılmasını sağlayan uygulamadır.",
+            "type": 0,
+            "unit": "",
+            "priceOfProductItem": 31000
+          }
+        ]
+      },
+      {
+        "id": "EBDYSMOBILE",
+        "name": "EBDYS Mobil Uygulama Lisansı",
+        "description": "1 yıllık güncelleme ve destek hizmeti dahildir. ",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 26000,
+        "childProductItems": [
+          {
+            "id": "EBDYSMOBILEANDROIDANDIOS",
+            "name": "Android-iOS Kullanıcı Lisansı",
+            "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır. Android-iOS lisans dağılımı kurum talebine göre yapılacaktır.",
+            "type": 2,
+            "unit": "Kullanıcı",
+            "barems": [
+              {
+                "id": "1",
+                "packetSize": 1,
+                "priceOfOneItem": 370
+              },
+              {
+                "id": "10",
+                "packetSize": 10,
+                "priceOfOneItem": 270
+              },
+              {
+                "id": "50",
+                "packetSize": 50,
+                "priceOfOneItem": 170
+              }
+            ]
+          },
+          {
+            "id": "EBDYSMOBILEMOBILEIMZATURKTELEKOM",
+            "name": "Mobil İmza-Türk Telekom",
+            "description": "Türk Telekom mobil imza entegrasyon fiyatıdır.",
+            "type": 0,
+            "unit": "",
+            "priceOfProductItem": 24400
+          },
+          {
+            "id": "EBDYSMOBILEMOBILEIMZAVODAFONE",
+            "name": "Mobil İmza-Vodafone",
+            "description": "Vodafone mobil imza entegrasyon fiyatıdır.",
+            "type": 0,
+            "unit": "",
+            "priceOfProductItem": 24400
+          }
+        ]
+      },
+      {
+        "id": "KURULUM",
+        "name": "Ebys Kurulum",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 30000
+      },
+      {
+        "id": "KEP",
+        "name": "KEP Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 35000
+      },
+      {
+        "id": "UETS",
+        "name": "UETS Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 35000
+      },
+      {
+        "id": "Detsis",
+        "name": "Detsis Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 30000
+      },
+      {
+        "id": "Proliz OBS",
+        "name": "Proliz Öğrenci Bilgi Sistemi Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 60000
+      },
+      {
+        "id": "Neticet",
+        "name": "Netiket Personel Bilgi Sistem Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 70000
+      },
+      {
+        "id": "SFTP",
+        "name": "SFTP Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 35000
+      },
+      {
+        "id": "YERINDEDESTEKSEHIRICI",
+        "name": "Yerinde Destek-Şehir İçi",
+        "description": "Ankara sınırları içinde verilecek olan yerinde destek fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
+        "type": 1,
+        "unit": "adam/gün",
+        "priceOfProductItem": 8580
+      },
+      {
+        "id": "YERINDEDESTEKSEHIRDISI",
+        "name": "Yerinde Destek-Şehir Dışı",
+        "description": "Ankara dışında verilecek olan yerinde destek fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
+        "type": 1,
+        "unit": "adam/gün",
+        "priceOfProductItem": 13000
+      },
+      {
+        "id": "EGITIMSEHIRICI",
+        "name": "Eğitim-Şehir İçi",
+        "description": "Ankara sınırları içinde verilecek olan eğitim fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
+        "type": 1,
+        "unit": "adam/gün",
+        "priceOfProductItem": 8580
+      },
+      {
+        "id": "EGITIMSEHIRDISI",
+        "name": "Eğitim-Şehir Dışı",
+        "description": "Ankara dışında verilecek olan eğitim fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
+        "type": 1,
+        "unit": "adam/gün",
+        "priceOfProductItem": 11880
+      },
+      {
+        "id": "EKGELISTIRME",
+        "name": "Ek Geliştirme Hizmeti",
+        "description": "Adam/gün olarak ihtiyaç oranında alınabilir.",
+        "type": 1,
+        "unit": "adam/gün",
+        "priceOfProductItem": 12200
+      },
+      {
+        "id": "ESKIVERIENTEGRASYONU",
+        "name": "Eski Veri Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 85400
+      },
+      {
+        "id": "KURUMSALEMUHUR",
+        "name": "e-Mühür Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 40350
+      },
+      {
+        "id": "KURUMSALSIFRELEME",
+        "name": "Şifreleme Mekanizması Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 40350
+      },
+      {
+        "id": "EDEVLETBELGEDOGRULAMA",
+        "name": "e-Devlet'ten Belge Doğrulama Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 19100
+      }
+    ],
+    "terms": [
+      { "text": "Teklifimiz KDV hariç olarak verilmiştir. Faturalandırma aşamasında, teklifte yer alan uygun kalemler, 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olarak faturalandırılacaktır. Diğer kalemler için KDV oranı %20'dir." },
+      { "text": "Fiyatlara, tek bir sunucu üzerine kurulum dahildir." },
+      {
+        "text": "Teklifimize 1 yıllık Güncelleme ve Destek Hizmeti dahildir. Güncelleme ve Destek Hizmeti sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
+      },
+      {
+        "text": "Sözleşme imza tarihinden 1 yıl sonra yapılacak güncelleme ve destek sözleşmesinin bedeli hesaplanırken; sözleşme süresi boyunca yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve Yıllık Güncelleme ve Destek Hizmeti Bedeli ilk fiyat teklif bedeli ile sözleşme süresi boyunca eklenen modül ve hizmetler toplamının %20'si oranında TÜFE+Yİ-ÜFE/2 ile güncellenecektir."
+      },
+      { "text": "Güncelleme ve Destek kapsamına dahil olan hizmetler:", "children": [{ "text": "Telefonla destek" }, { "text": "Uzaktan erişim ile destek" }, { "text": "Sözleşme süresi boyunca güncelleme işlemleri" }, { "text" : "Sözleşme süresi boyunca hata gidermeleri" }, { "text": "Mevzuat değişiklerinin uyarlanması" }] },
+      { "text": "Teklifimizin uygun bulunması durumunda, teklif onayı kaşe imzalı olarak Seneka'ya iletilmelidir." },
+      { "text": "Teklif onayı ile birlikte, teklifte yer alan toplam bedelin %30'u peşin olarak yapılacak ve kurulum işlemleri başlatılacaktır.  Kurulum ve eğitim süreçleri tamamlandıktan sonra kalan %70 oranındaki bedel tek seferde ödenecektir." },
+      {
+        "text": "Sistemde bulunmayan ek bir özellik talep edilmesi durumunda, yazılım ekibinin analiz ve değerlendirmesi sonucu, Ek Geliştirme Hizmeti kapsamında geliştirmenin özelliğine göre adam/gün belirlenerek maliyet bilgisi kurum ile paylaşılacaktır. Ek Geliştirme Hizmeti alınması durumunda 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olacaktır. 2024 yılı için geçerli 1 adam/gün bedeli 12.200 TL'dir."
+      }
+    ]
+  }
