@@ -11,7 +11,7 @@
         "description": "1 yıllık güncelleme ve destek hizmeti dahildir.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 200000,
+        "priceOfProductItem": 0,
         "childProductItems": [
           {
             "id": "KULLANICILISANSI",
@@ -23,17 +23,7 @@
               {
                 "id": "1",
                 "packetSize": 1,
-                "priceOfOneItem": 1600
-              },
-              {
-                "id": "10",
-                "packetSize": 10,
-                "priceOfOneItem": 1100
-              },
-              {
-                "id": "50",
-                "packetSize": 50,
-                "priceOfOneItem": 750
+                "priceOfOneItem": 200
               }
             ]
           }
@@ -45,10 +35,10 @@
         "description": "",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 135000,
+        "priceOfProductItem": 25,
         "childProductItems": [
           {
-            "id": "EBDYSWEBULLANICILISANSI",
+            "id": "KULLANICISayısı",
             "name": "Kullanıcı Lisansı",
             "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
             "type": 2,
@@ -57,27 +47,24 @@
               {
                 "id": "1",
                 "packetSize": 1,
-                "priceOfOneItem": 600
+                "priceOfOneItem": 25
               },
               {
                 "id": "10",
                 "packetSize": 10,
-                "priceOfOneItem": 450
+                "priceOfOneItem": 25
               },
               {
                 "id": "50",
                 "packetSize": 50,
-                "priceOfOneItem": 300
+                "priceOfOneItem": 25
+              },
+              {
+                "id" : "1000",
+                "packetSize": 1000,
+                "priceOfOneItem":20
               }
             ]
-          },
-          {
-            "id": "EBDYSWEBJAVASIZIMZA",
-            "name": "Javasız e-İmza",
-            "description": "Web uygulamasında işletim sistemi ve tarayıcı bağımsız olarak, son kullanıcı bilgisayarında Java ihtiyacı olmadan e-imza atılmasını sağlayan uygulamadır.",
-            "type": 0,
-            "unit": "",
-            "priceOfProductItem": 46000
           }
         ]
       },
@@ -87,49 +74,8 @@
         "description": "Gelişmiş süreç ile seri ya da paralel imzalama yapılabilmesi sağlanmaktadır. ",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 40000,
-        "childProductItems": [
-          {
-            "id": "EBDYSMOBILEANDROIDANDIOS",
-            "name": "Android-iOS Kullanıcı Lisansı",
-            "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır. Android-iOS lisans dağılımı kurum talebine göre yapılacaktır.",
-            "type": 2,
-            "unit": "Kullanıcı",
-            "barems": [
-              {
-                "id": "1",
-                "packetSize": 1,
-                "priceOfOneItem": 500
-              },
-              {
-                "id": "10",
-                "packetSize": 10,
-                "priceOfOneItem": 400
-              },
-              {
-                "id": "50",
-                "packetSize": 50,
-                "priceOfOneItem": 300
-              }
-            ]
-          },
-          {
-            "id": "EBDYSMOBILEMOBILEIMZATURKTELEKOM",
-            "name": "Mobil İmza-Türk Telekom",
-            "description": "Türk Telekom mobil imza entegrasyon fiyatıdır.",
-            "type": 0,
-            "unit": "",
-            "priceOfProductItem": 37500
-          },
-          {
-            "id": "EBDYSMOBILEMOBILEIMZAVODAFONE",
-            "name": "Mobil İmza-Vodafone",
-            "description": "Vodafone mobil imza entegrasyon fiyatıdır.",
-            "type": 0,
-            "unit": "",
-            "priceOfProductItem": 37500
-          }
-        ]
+        "priceOfProductItem": 5000
+       
       },
       {
         "id": "KURULUM",
@@ -137,23 +83,7 @@
         "description": "",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 45000
-      },
-      {
-        "id": "KEP",
-        "name": "KEP Entegrasyonu",
-        "description": "",
-        "type": 0,
-        "unit": "",
-        "priceOfProductItem": 45000
-      },
-      {
-        "id": "Detsis",
-        "name": "Detsis Entegrasyonu",
-        "description": "",
-        "type": 0,
-        "unit": "",
-        "priceOfProductItem": 45000
+        "priceOfProductItem": 25000
       },
       {
         "id": "SFTP",
@@ -161,7 +91,7 @@
         "description": "",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 47500
+        "priceOfProductItem": 6500
       },
       {
         "id": "EGITIMDANISMANLIK",
@@ -169,7 +99,7 @@
         "description": "Eğitim ve danışmanlık ücreti",
         "type": 1,
         "unit": "adam/gün",
-        "priceOfProductItem": 13500
+        "priceOfProductItem": 5000
       },
       {
         "id": "DISKULLANICI",
@@ -177,23 +107,7 @@
         "description": "",
         "type": 1,
         "unit": "adam/gün",
-        "priceOfProductItem": 20000
-      },
-      {
-        "id": "DOGRULAMAPORTALI",
-        "name": "Dogrulama Ucreti",
-        "description": "",
-        "type": 1,
-        "unit": "adam/gün",
-        "priceOfProductItem": 13500
-      },
-      {
-        "id": "UZAKTANIMZA",
-        "name": "Uzaktan IMZA",
-        "description": "",
-        "type": 1,
-        "unit": "adam/gün",
-        "priceOfProductItem": 13500
+        "priceOfProductItem": 12000
       }
     ],
     "terms": [
@@ -209,7 +123,7 @@
       { "text": "Teklifimizin uygun bulunması durumunda, teklif onayı kaşe imzalı olarak Seneka'ya iletilmelidir." },
       { "text": "Teklif onayı ile birlikte, teklifte yer alan toplam bedelin %30'u peşin olarak yapılacak ve kurulum işlemleri başlatılacaktır.  Kurulum ve eğitim süreçleri tamamlandıktan sonra kalan %70 oranındaki bedel tek seferde ödenecektir." },
       {
-        "text": "Sistemde bulunmayan ek bir özellik talep edilmesi durumunda, yazılım ekibinin analiz ve değerlendirmesi sonucu, Ek Geliştirme Hizmeti kapsamında geliştirmenin özelliğine göre adam/gün belirlenerek maliyet bilgisi kurum ile paylaşılacaktır. Ek Geliştirme Hizmeti alınması durumunda 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olacaktır. 2025 yılı için geçerli 1 adam/gün bedeli 22,000 TL'dir."
+        "text": "Sistemde bulunmayan ek bir özellik talep edilmesi durumunda, yazılım ekibinin analiz ve değerlendirmesi sonucu, Ek Geliştirme Hizmeti kapsamında geliştirmenin özelliğine göre adam/gün belirlenerek maliyet bilgisi kurum ile paylaşılacaktır. Ek Geliştirme Hizmeti alınması durumunda 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olacaktır. 2025 yılı için geçerli 1 adam/gün bedeli 16,000 TL'dir."
       }
     ]
   }
