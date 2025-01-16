@@ -2,26 +2,26 @@
   {
     "name":"EBYS On-Premise",
     "url":"https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebysonpremise.json",
-    "users":"*seneka.com.tr,kerem@gmail.com"
+    "users":["*seneka.com.tr","kerem@gmail.com"]
   },
   {
     "name":"EBYS Bulut",
     "url":"https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebyscloud.json",
-    "users":"*seneka.com.tr,kerem@gmail.com"
+    "users":["*seneka.com.tr","kerem@gmail.com"]
   },
   {
     "name":"EBYS On-Premise 2025",
     "url":"https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebysonpremise2025.json",
-    "users":"*seneka.com.tr,kerem@gmail.com"
+        "users":["*seneka.com.tr","kerem@gmail.com"]
   },
   {
     "name":"EBYS Kıbrıs 2025",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebyskibris2025.json",
-    "users":"*seneka.com.tr,kerem@gmail.com"
+        "users":["*seneka.com.tr","kerem@gmail.com"]
   },
   {
     "name":"Onaylarım Kıbrıs 2025",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimkibris2025.json",
-    "users":"kerem@gmail.com"
+        "users":["kerem@gmail.com"]
   }
 ]
