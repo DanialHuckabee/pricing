@@ -133,7 +133,7 @@
         "id": "SFTP",
         "name": "SFTP",
         "description": "SFTP ücreti",
-        "type": 1,
+        "type": 0,
         "unit": "",
         "priceOfProductItem": 20790
       },
@@ -141,7 +141,7 @@
         "id": "DISKULLANICI",
         "name": "Dış Kullanıcı",
         "description": "",
-        "type": 1,
+        "type": 0,
         "unit": "",
         "priceOfProductItem": 19127
       },
@@ -149,7 +149,7 @@
         "id": "DOGRULAMAPORTALI",
         "name": "Doğrulama Portali ",
         "description": "",
-        "type": 1,
+        "type": 0,
         "unit": "",
         "priceOfProductItem": 19000
       },
@@ -157,7 +157,7 @@
         "id": "KURULUMVEGUNCELLEME",
         "name": "Kurulum ve Güncelleme ",
         "description": "",
-        "type": 1,
+        "type": 0,
         "unit": "",
         "priceOfProductItem": 157000
       },
@@ -165,7 +165,7 @@
         "id": "DETSIS",
         "name": "DETSİS Entegrasyonu ",
         "description": "",
-        "type": 1,
+        "type": 0,
         "unit": "",
         "priceOfProductItem": 19000
       }
@@ -174,7 +174,7 @@
         "id": "SMSBILGILENDIRME",
         "name": "SMS Bilgilendirme ",
         "description": "",
-        "type": 1,
+        "type": 0,
         "unit": "",
         "priceOfProductItem": 8140
       }
@@ -191,7 +191,7 @@
         "id": "MOBILAPIGATEWAY",
         "name": "Mobil ApiGateWay ",
         "description": "",
-        "type": 1,
+        "type": 0,
         "unit": "",
         "priceOfProductItem": 36000
       },
@@ -199,7 +199,7 @@
         "id": "MOBILIMZA",
         "name": "Mobil İmza",
         "description": "",
-        "type": 1,
+        "type": 0,
         "unit": "",
         "priceOfProductItem": 24000
       }
