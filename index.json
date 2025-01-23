@@ -23,5 +23,10 @@
     "name":"Onaylarım Kıbrıs 2025",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimkibris2025.json",
     "users":["*seneka.com.tr","lisani@denizlerbilisim.com"]
+  },
+  {
+    "name":"Onaylarım On-Premise 2025",
+    "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimonpremise2025.json",
+    "users":["lisani@denizlerbilisim.com"]
   }
 ]
