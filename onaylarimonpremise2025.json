@@ -1,41 +1,17 @@
 {
-    "id": "OnaylarimKibris2025",
-    "name": "OnaylarimKibris2025",
-    "description": "07.01.2025 11:15 Bülent düzenledi.",
-    "date": "07 Ocak 2025",
+    "id": "OnaylarimOnPremise2025",
+    "name": "OnaylarimOnPremise2025",
+    "description": "23.01.2025 17:30 Bülent düzenledi.",
+    "date": "23 Ocak 2025",
     "currency": "TL",
     "productItems": [
       {
-        "id": "ONAYLARIMLISANSI",
-        "name": "Onaylarım ",
-        "description": "1 yıllık güncelleme ve destek hizmeti dahildir.",
+        "id": "KULLANICILISANSI",
+        "name": "Onaylarım Kullanıcı lisansı ",
+        "description": "Kullanıcı lisansı.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 0,
-        "childProductItems": [
-          {
-            "id": "KULLANICILISANSI",
-            "name": "Kullanıcı Lisansı",
-            "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansı sayısıdır.",
-            "type": 2,
-            "unit": "Kullanıcı",
-            "barems": [
-              {
-                "id": "1",
-                "packetSize": 1,
-                "priceOfOneItem": 200
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "SURECSAYISI",
-        "name": "Olusturulacak süreç sayısıdır.",
-        "description": "",
-        "type": 0,
-        "unit": "",
-        "priceOfProductItem": 25,
         "childProductItems": [
           {
             "id": "KULLANICISayısı",
@@ -47,24 +23,84 @@
               {
                 "id": "1",
                 "packetSize": 1,
-                "priceOfOneItem": 25
-              },
-              {
-                "id": "10",
-                "packetSize": 10,
-                "priceOfOneItem": 25
+                "priceOfOneItem": 416
               },
               {
                 "id": "50",
                 "packetSize": 50,
-                "priceOfOneItem": 25
+                "priceOfOneItem": 375
+              },
+              {
+                "id" : "200",
+                "packetSize": 1000,
+                "priceOfOneItem":332
+              },
+              {
+                "id" : "500",
+                "packetSize": 1000,
+                "priceOfOneItem":312
               },
               {
                 "id" : "1000",
                 "packetSize": 1000,
-                "priceOfOneItem":20
+                "priceOfOneItem":218
+              },
+              {
+                "id" : "2000",
+                "packetSize": 1000,
+                "priceOfOneItem":600000
               }
             ]
+          }
+        ]
+        
+      },
+      {
+        "id": "SURECSAYISI",
+        "name": "Olusturulacak süreç sayısıdır.",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 0,
+        "childProductItems": [
+          {
+            "id": "SurecSayisi",
+            "name": "Süreç Sayısı",
+            "description": "Lisans kapsamında kullanılabilecek maksimum süreç sayısıdır.",
+            "type": 2,
+            "unit": "Süreç",
+            "barems": [
+                {
+                  "id": "1",
+                  "packetSize": 1,
+                  "priceOfOneItem": 106
+                },
+                {
+                  "id": "50",
+                  "packetSize": 50,
+                  "priceOfOneItem": 95
+                },
+                {
+                  "id" : "200",
+                  "packetSize": 1000,
+                  "priceOfOneItem":85
+                },
+                {
+                  "id" : "500",
+                  "packetSize": 1000,
+                  "priceOfOneItem":80
+                },
+                {
+                  "id" : "1000",
+                  "packetSize": 1000,
+                  "priceOfOneItem":74
+                },
+                {
+                  "id" : "2000",
+                  "packetSize": 1000,
+                  "priceOfOneItem":150000
+                }
+              ]
           }
         ]
       },
@@ -74,56 +110,98 @@
         "description": "Gelişmiş süreç ile seri ya da paralel imzalama yapılabilmesi sağlanmaktadır. ",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 5000
+        "priceOfProductItem": 49540
        
       },
       {
-        "id": "KURULUM",
-        "name": "Ebys Kurulum",
+        "id": "EYP1.3",
+        "name": "EYP 1.3",
         "description": "",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 25000
+        "priceOfProductItem": 6534
+      },
+      {
+        "id": "KEP",
+        "name": "KEP Entegrasyonu",
+        "description": "",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 14196
       },
       {
         "id": "SFTP",
-        "name": "SFTP Entegrasyonu",
-        "description": "",
-        "type": 0,
-        "unit": "",
-        "priceOfProductItem": 6500
-      },
-      {
-        "id": "EGITIMDANISMANLIK",
-        "name": "Eğitim-Danışmanlık",
-        "description": "Eğitim ve danışmanlık ücreti",
+        "name": "SFTP",
+        "description": "SFTP ücreti",
         "type": 1,
-        "unit": "adam/gün",
-        "priceOfProductItem": 5000
+        "unit": "",
+        "priceOfProductItem": 20790
       },
       {
         "id": "DISKULLANICI",
         "name": "Dış Kullanıcı",
         "description": "",
         "type": 1,
-        "unit": "adam/gün",
-        "priceOfProductItem": 12000
-      }
-    ],
-    "terms": [
-      { "text": "Teklifimiz KDV hariç olarak verilmiştir. Faturalandırma aşamasında, teklifte yer alan uygun kalemler, 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olarak faturalandırılacaktır. Diğer kalemler için KDV oranı %20'dir." },
-      { "text": "Fiyatlara, tek bir sunucu üzerine kurulum dahildir." },
-      {
-        "text": "Teklifimize 1 yıllık Güncelleme ve Destek Hizmeti dahildir. Güncelleme ve Destek Hizmeti sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
+        "unit": "",
+        "priceOfProductItem": 19127
       },
       {
-        "text": "Sözleşme imza tarihinden 1 yıl sonra yapılacak güncelleme ve destek sözleşmesinin bedeli hesaplanırken; sözleşme süresi boyunca yeni modül ve hizmet eklenmesi durumunda eklenen modül ve hizmet bedeli sözleşme bedeline eklenecek ve Yıllık Güncelleme ve Destek Hizmeti Bedeli ilk fiyat teklif bedeli ile sözleşme süresi boyunca eklenen modül ve hizmetler toplamının %20'si oranında TÜFE+Yİ-ÜFE/2 ile güncellenecektir."
+        "id": "DOGRULAMAPORTALI",
+        "name": "Doğrulama Portali ",
+        "description": "",
+        "type": 1,
+        "unit": "",
+        "priceOfProductItem": 19000
       },
-      { "text": "Güncelleme ve Destek kapsamına dahil olan hizmetler:", "children": [{ "text": "Telefonla destek" }, { "text": "Uzaktan erişim ile destek" }, { "text": "Sözleşme süresi boyunca güncelleme işlemleri" }, { "text" : "Sözleşme süresi boyunca hata gidermeleri" }, { "text": "Mevzuat değişiklerinin uyarlanması" }] },
-      { "text": "Teklifimizin uygun bulunması durumunda, teklif onayı kaşe imzalı olarak Seneka'ya iletilmelidir." },
-      { "text": "Teklif onayı ile birlikte, teklifte yer alan toplam bedelin %30'u peşin olarak yapılacak ve kurulum işlemleri başlatılacaktır.  Kurulum ve eğitim süreçleri tamamlandıktan sonra kalan %70 oranındaki bedel tek seferde ödenecektir." },
       {
-        "text": "Sistemde bulunmayan ek bir özellik talep edilmesi durumunda, yazılım ekibinin analiz ve değerlendirmesi sonucu, Ek Geliştirme Hizmeti kapsamında geliştirmenin özelliğine göre adam/gün belirlenerek maliyet bilgisi kurum ile paylaşılacaktır. Ek Geliştirme Hizmeti alınması durumunda 5035 sayılı Kanunun 11 inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olacaktır. 2025 yılı için geçerli 1 adam/gün bedeli 16,000 TL'dir."
+        "id": "KURULUMVEGUNCELLEME",
+        "name": "Kurulum ve Güncelleme ",
+        "description": "",
+        "type": 1,
+        "unit": "",
+        "priceOfProductItem": 157000
+      },
+      {
+        "id": "DETSIS",
+        "name": "DETSİS Entegrasyonu ",
+        "description": "",
+        "type": 1,
+        "unit": "",
+        "priceOfProductItem": 19000
       }
-    ]
+      ,
+      {
+        "id": "SMSBILGILENDIRME",
+        "name": "SMS Bilgilendirme ",
+        "description": "",
+        "type": 1,
+        "unit": "",
+        "priceOfProductItem": 8140
+      }
+      ,
+      {
+        "id": "EGITIMDANISMANLIK",
+        "name": "Eğitim / Danışmanlık ",
+        "description": "",
+        "type": 1,
+        "unit": "",
+        "priceOfProductItem":8310
+      },
+      {
+        "id": "MOBILAPIGATEWAY",
+        "name": "Mobil ApiGateWay ",
+        "description": "",
+        "type": 1,
+        "unit": "",
+        "priceOfProductItem": 36000
+      },
+      {
+        "id": "MOBILIMZA",
+        "name": "Mobil İmza",
+        "description": "",
+        "type": 1,
+        "unit": "",
+        "priceOfProductItem": 24000
+      }
+    ] 
   }
