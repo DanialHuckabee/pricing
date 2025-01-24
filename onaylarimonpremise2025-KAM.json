@@ -14,11 +14,6 @@
         "priceOfProductItem": 0,
         "barems": [
               {
-                "id": "1",
-                "packetSize": 1,
-                "priceOfOneItem": 416
-              },
-              {
                 "id": "50",
                 "packetSize": 50,
                 "priceOfOneItem": 416
@@ -53,11 +48,6 @@
         "unit": "",
         "priceOfProductItem": 0,
         "barems": [
-                {
-                  "id": "1",
-                  "packetSize": 1,
-                  "priceOfOneItem": 106
-                },
                 {
                   "id": "50",
                   "packetSize": 50,
