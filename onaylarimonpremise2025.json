@@ -1,7 +1,7 @@
 {
     "id": "OnaylarimOnPremise2025",
     "name": "OnaylarimOnPremise2025",
-    "description": "24.01.2025 13:55 Bülent düzenledi.",
+    "description": "24.01.2025 14:00 Bülent düzenledi.",
     "date": "24 Ocak 2025",
     "currency": "TL",
     "productItems": [
@@ -192,5 +192,17 @@
         "unit": "",
         "priceOfProductItem": 24000
       }
-    ] 
+    ],
+    "terms": [
+      {
+        "text": "Fiyatlandırma imza başına değil, süreç başına yapılmaktadır. Örnek olarak bir süreç içinde 1 veya 5 adet imzacı bulunması fark etmeksizin 1 süreç kontörü kullanılmış olur."
+      },
+    { "text": "Teklifimiz KDV hariç olarak verilmiştir. Faturalandırma aşamasında, teklifte yer alan uygun kalemler, 5035 sayılı Kanunun 11'inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olarak faturalandırılacaktır. Diğer kalemler için KDV oranı %20'dir." },
+    {
+      "text": "Teklifimize lisans süresi boyunca Güncelleme ve Destek Hizmeti dahildir. Güncelleme ve Destek Hizmeti sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
+    },
+    { "text": "Güncelleme ve Destek kapsamına dahil olan hizmetler:", "children": [{ "text": "Telefonla destek" }, { "text": "Uzaktan erişim ile destek" }, { "text": "Sözleşme süresi boyunca güncelleme işlemleri" }, { "text" : "Sözleşme süresi boyunca hata gidermeleri" }, { "text": "Mevzuat değişiklerinin uyarlanması" }] },
+    { "text": "Teklifimizin uygun bulunması durumunda, teklif onayı kaşe imzalı olarak Seneka'ya iletilmelidir." }
+    
+  ] 
   }
