@@ -34,5 +34,11 @@
     "longname":"ONAYLARIM On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimonpremise2025.json",
     "users":["*seneka.com.tr"]
+  },
+  {
+    "name":"Onaylarım On-Premise 2025-KAM Teknoloji",
+    "longname":"ONAYLARIM On-Premise-KAM Teknoloji",
+    "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimonpremise2025-KAM.json",
+    "users":["*seneka.com.tr","kerem@kambilgi.com.tr"]
   }
 ]
