@@ -179,7 +179,7 @@
     {
       "id": "MOBILAPIGATEWAY",
       "name": "Mobil ApiGateWay Entegrasyonu ",
-      "description": "Kullanıcılar operatörler ile entegrasyon gereksinimi olmadan, mobil imza işlemlerinde Seneka tarafından sağlanacak ara katman üzerinde imzalama işlemlerini gerçekleştirebileceklerdir.",
+      "description": "Operatörlerle entegrasyon ihtiyacı olmadan mobil imza atmayı sağlar",
       "type": 0,
       "unit": "",
       "priceOfProductItem": 28800
