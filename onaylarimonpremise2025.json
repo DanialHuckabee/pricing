@@ -9,7 +9,7 @@
         "id": "KULLANICILISANSI",
         "name": "Onaylarım Kullanıcı lisansı ",
         "description": "Kullanıcı lisansı.",
-        "type": 0,
+        "type": 2,
         "unit": "",
         "priceOfProductItem": 0,
         "barems": [
