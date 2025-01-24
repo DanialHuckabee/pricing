@@ -1,8 +1,8 @@
 {
     "id": "OnaylarimOnPremise2025",
     "name": "OnaylarimOnPremise2025",
-    "description": "24.01.2025 17:30 Bülent düzenledi.",
-    "date": "23 Ocak 2025",
+    "description": "24.01.2025 12:30 Bülent düzenledi.",
+    "date": "24 Ocak 2025",
     "currency": "TL",
     "productItems": [
       {
@@ -37,31 +37,17 @@
                 "id" : "1000",
                 "packetSize": 1000,
                 "priceOfOneItem":218
-              },
-              {
-                "id" : "2000",
-                "packetSize": 1000,
-                "priceOfOneItem":600000
               }
-            ]
-        
-        
+            ]    
       },
       {
         "id": "SURECSAYISI",
         "name": "Olusturulacak süreç sayısıdır.",
         "description": "",
-        "type": 0,
+        "type": 2,
         "unit": "",
         "priceOfProductItem": 0,
-        "childProductItems": [
-          {
-            "id": "SurecSayisi",
-            "name": "Süreç Sayısı",
-            "description": "Lisans kapsamında kullanılabilecek maksimum süreç sayısıdır.",
-            "type": 2,
-            "unit": "Süreç",
-            "barems": [
+        "barems": [
                 {
                   "id": "1",
                   "packetSize": 1,
@@ -86,15 +72,26 @@
                   "id" : "1000",
                   "packetSize": 1000,
                   "priceOfOneItem":74
-                },
-                {
-                  "id" : "2000",
-                  "packetSize": 1000,
-                  "priceOfOneItem":150000
                 }
               ]
-          }
-        ]
+      },
+      {
+        "id": "KURUMSALLISANS",
+        "name": "Kurumsal Lisans",
+        "description": "Sınırsız kullanıcı sayısı olduğunda kullanılır.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 600000
+       
+      },
+      {
+        "id": "KURUMSALSUREC",
+        "name": "Kurumsal Süreç",
+        "description": "Sınırsız süreç sayısı olduğunda kullanılır.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 150000
+       
       },
       {
         "id": "GELISMISSUREC",
