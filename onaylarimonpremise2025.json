@@ -1,7 +1,7 @@
 {
     "id": "OnaylarimOnPremise2025",
     "name": "OnaylarimOnPremise2025",
-    "description": "24.01.2025 12:30 Bülent düzenledi.",
+    "description": "24.01.2025 12:36 Bülent düzenledi.",
     "date": "24 Ocak 2025",
     "currency": "TL",
     "productItems": [
@@ -25,12 +25,12 @@
               },
               {
                 "id" : "200",
-                "packetSize": 1000,
+                "packetSize": 200,
                 "priceOfOneItem":332
               },
               {
                 "id" : "500",
-                "packetSize": 1000,
+                "packetSize": 500,
                 "priceOfOneItem":312
               },
               {
@@ -60,12 +60,12 @@
                 },
                 {
                   "id" : "200",
-                  "packetSize": 1000,
+                  "packetSize": 200,
                   "priceOfOneItem":85
                 },
                 {
                   "id" : "500",
-                  "packetSize": 1000,
+                  "packetSize": 500,
                   "priceOfOneItem":80
                 },
                 {
