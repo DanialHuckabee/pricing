@@ -12,6 +12,38 @@
         "type": 0,
         "unit": "",
         "priceOfProductItem": 0,
+        "barems": [
+              {
+                "id": "1",
+                "packetSize": 1,
+                "priceOfOneItem": 416
+              },
+              {
+                "id": "50",
+                "packetSize": 50,
+                "priceOfOneItem": 375
+              },
+              {
+                "id" : "200",
+                "packetSize": 1000,
+                "priceOfOneItem":332
+              },
+              {
+                "id" : "500",
+                "packetSize": 1000,
+                "priceOfOneItem":312
+              },
+              {
+                "id" : "1000",
+                "packetSize": 1000,
+                "priceOfOneItem":218
+              },
+              {
+                "id" : "2000",
+                "packetSize": 1000,
+                "priceOfOneItem":600000
+              }
+            ],
         "childProductItems": [
           {
             "id": "KULLANICISayısı",
