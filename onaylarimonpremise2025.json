@@ -7,7 +7,7 @@
   "productItems": [
     {
       "id": "KULLANICILISANSI",
-      "name": "Onaylarım Kullanıcı Lisansı ",
+      "name": "Kullanıcı Lisansı ",
       "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansıdır. İhtiyaç durumunda ek kullanıcı lisansı alınabilir.",
       "type": 2,
       "unit": "",
@@ -77,8 +77,8 @@
     },
     {
       "id": "KURUMSALLISANS",
-      "name": "Onaylarım On-Premise Kurumsal Lisans",
-      "description": "Sınırsız kullanıcı",
+      "name": "Sınırsız Kullanıcı Lisans Paketi",
+      "description": "Sınırsız kullanıcı. 2000'den fazla kullanıcı için.",
       "type": 0,
       "unit": "",
       "priceOfProductItem": 600000
@@ -86,8 +86,8 @@
     },
     {
       "id": "KURUMSALSUREC",
-      "name": "Onaylarım On-Premise Kurumsal Süreç",
-      "description": "Sınırsız süreç",
+      "name": "Sınırsız Süreç Paketi",
+      "description": "Sınırsız süreç. 2000'den fazla süreç için.",
       "type": 0,
       "unit": "",
       "priceOfProductItem": 150000
@@ -105,7 +105,7 @@
     {
       "id": "EYP1.3",
       "name": "e-Yazışma 1.3",
-      "description": "Kamu kurumlarına ya da özel şirketlere göndermek için e-Yazışma paketi oluşturulur.",
+      "description": "Kamu kurumlarına ya da özel şirketlere göndermek için e-Yazışma paketi oluşturulabilmesini sağlar.",
       "type": 0,
       "unit": "",
       "priceOfProductItem": 6534
@@ -113,7 +113,7 @@
     {
       "id": "KEP",
       "name": "KEP Entegrasyonu",
-      "description": "",
+      "description": "KEP ile ileti gönderilmesini sağlar.",
       "type": 0,
       "unit": "",
       "priceOfProductItem": 14196
@@ -121,7 +121,7 @@
     {
       "id": "SFTP",
       "name": "SFTP Entegrasyonu",
-      "description": "",
+      "description": "Bankalara e-imzalı talimat gönderilmesini sağlar.",
       "type": 0,
       "unit": "",
       "priceOfProductItem": 20790
@@ -129,7 +129,7 @@
     {
       "id": "DISKULLANICI",
       "name": "Dış Kullanıcılar",
-      "description": "Onaylarım kullanıcı lisansına dahil olmayan kişilere imza için belge gönderilebilir.",
+      "description": "Onaylarım kullanıcısı olmayan kişilere e-imza atmaları için belge gönderilebilir.",
       "type": 0,
       "unit": "",
       "priceOfProductItem": 19127
@@ -137,7 +137,7 @@
     {
       "id": "DOGRULAMAPORTALI",
       "name": "Doğrulama Portali",
-      "description": "",
+      "description": "e-İmzalı belgelerin doğrulanmasını sağlayan portaldir.",
       "type": 0,
       "unit": "",
       "priceOfProductItem": 19000
@@ -145,7 +145,7 @@
     {
       "id": "KURULUMVEGUNCELLEME",
       "name": "Kurulum ve Güncelleme",
-      "description": "",
+      "description": "Sunucularınıza sistemin kurulması ve gerekli hallerde güncelleme yapılması hizmetidir.",
       "type": 0,
       "unit": "",
       "priceOfProductItem": 157000
