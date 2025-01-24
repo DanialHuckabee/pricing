@@ -1,14 +1,14 @@
 {
     "id": "OnaylarimOnPremise2025",
     "name": "OnaylarimOnPremise2025",
-    "description": "24.01.2025 12:36 Bülent düzenledi.",
+    "description": "24.01.2025 13:55 Bülent düzenledi.",
     "date": "24 Ocak 2025",
     "currency": "TL",
     "productItems": [
       {
         "id": "KULLANICILISANSI",
-        "name": "Onaylarım Kullanıcı lisansı ",
-        "description": "Kullanıcı lisansı.",
+        "name": "Onaylarım Kullanıcı Lisansı ",
+        "description": "Lisans kapsamında kullanılabilcek maksimum kullanıcı lisansıdır.",
         "type": 2,
         "unit": "",
         "priceOfProductItem": 0,
@@ -42,8 +42,8 @@
       },
       {
         "id": "SURECSAYISI",
-        "name": "Olusturulacak süreç sayısıdır.",
-        "description": "",
+        "name": "Süreç Sayısı",
+        "description": "Lisans kapsamında kullanılabilcek maksimum süreç lisansıdır.",
         "type": 2,
         "unit": "",
         "priceOfProductItem": 0,
@@ -77,8 +77,8 @@
       },
       {
         "id": "KURUMSALLISANS",
-        "name": "Kurumsal Lisans",
-        "description": "Sınırsız kullanıcı sayısı olduğunda kullanılır.",
+        "name": "Onaylarım On-Premise Kurumsal Lisans",
+        "description": "Sınırsız kullanıcı.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 600000
@@ -86,8 +86,8 @@
       },
       {
         "id": "KURUMSALSUREC",
-        "name": "Kurumsal Süreç",
-        "description": "Sınırsız süreç sayısı olduğunda kullanılır.",
+        "name": "Onaylarım On-Premise Kurumsal Süreç",
+        "description": "Sınırsız süreç.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 150000
@@ -95,7 +95,7 @@
       },
       {
         "id": "GELISMISSUREC",
-        "name": "Gelismis sürec özelligi",
+        "name": "Gelismiş Süreçler",
         "description": "Gelişmiş süreç ile seri ya da paralel imzalama yapılabilmesi sağlanmaktadır. ",
         "type": 0,
         "unit": "",
@@ -104,8 +104,8 @@
       },
       {
         "id": "EYP1.3",
-        "name": "EYP 1.3",
-        "description": "",
+        "name": "e-Yazışma 1.3",
+        "description": "Kamu kurumlarına ya da özel şirketlere göndermek için oluşturulur.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 6534
@@ -120,23 +120,23 @@
       },
       {
         "id": "SFTP",
-        "name": "SFTP",
-        "description": "SFTP ücreti",
+        "name": "SFTP Entegrasyonu",
+        "description": "",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 20790
       },
       {
         "id": "DISKULLANICI",
-        "name": "Dış Kullanıcı",
-        "description": "",
+        "name": "Dış Kullanıcılar",
+        "description": "Onaylarım kullanıcı lisansına dahil olmayan kişilere imza için belge gönderilebilir.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 19127
       },
       {
         "id": "DOGRULAMAPORTALI",
-        "name": "Doğrulama Portali ",
+        "name": "Doğrulama Portali",
         "description": "",
         "type": 0,
         "unit": "",
@@ -144,7 +144,7 @@
       },
       {
         "id": "KURULUMVEGUNCELLEME",
-        "name": "Kurulum ve Güncelleme ",
+        "name": "Kurulum ve Güncelleme",
         "description": "",
         "type": 0,
         "unit": "",
@@ -153,7 +153,7 @@
       {
         "id": "DETSIS",
         "name": "DETSİS Entegrasyonu ",
-        "description": "",
+        "description": "Kaysiste kayıtlı olan kurumlara ait bilgilerin otomatik olarak sisteme çekilmesini sağlar.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 19000
@@ -170,24 +170,24 @@
       ,
       {
         "id": "EGITIMDANISMANLIK",
-        "name": "Eğitim / Danışmanlık ",
-        "description": "",
+        "name": "Online Eğitim / Danışmanlık ",
+        "description": " Adam/gün oranında, ihyitaç dahilinde alınabilir.",
         "type": 1,
         "unit": "",
         "priceOfProductItem":8310
       },
       {
         "id": "MOBILAPIGATEWAY",
-        "name": "Mobil ApiGateWay ",
-        "description": "",
+        "name": "Mobil ApiGateWay Entegrasyonu ",
+        "description": "Operatörler ile yapılacak mobil imza entegrasyonu yüklenici tarafından gerçekleştirilir.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 36000
       },
       {
         "id": "MOBILIMZA",
-        "name": "Mobil İmza",
-        "description": "",
+        "name": "Mobil İmza Entegrasyonu",
+        "description": "Operatörler ile yapılacak mobil imza entegrasyonu müşteri tarafından gerçekleştirilir.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 24000
