@@ -46,5 +46,11 @@
     "longname":"ONAYLARIM Cloud",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimcloud2025.json",
     "users":["*seneka.com.tr"]
+  },
+  {
+    "name":"Onaylarım PrimeApi On-Premise 2025",
+    "longname":"ONAYLARIM PrimeApi On-Premise",
+    "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapionpremise2025.json",
+    "users":["*seneka.com.tr"]
   }
 ]

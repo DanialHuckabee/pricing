@@ -178,7 +178,7 @@
       {
         "id": "UZAKTANIMZA",
         "name": "Uzaktan İmza ",
-        "description": "Kullanıcı bilgisayarında takılı e-imza sertifikasına uzaktan erişerek imza atılabilmesini sağlar",
+        "description": "Kullanıcı bilgisayarında takılı e-imza sertifikasına uzaktan erişerek imza atılabilmesini sağlar.",
         "type": 0,
         "unit": "",
         "priceOfProductItem":14000
