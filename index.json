@@ -58,5 +58,11 @@
     "longname":"ONAYLARIM PrimeApi Cloud",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapicloud2025.json",
     "users":["*seneka.com.tr"]
+  },
+  {
+    "name":"Onaylarım SignHub On-Premise 2025",
+    "longname":"ONAYLARIM SignHub On-Premise",
+    "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimsignhubonpremise2025.json",
+    "users":["*seneka.com.tr"]
   }
 ]
