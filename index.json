@@ -18,8 +18,8 @@
     "users":["*seneka.com.tr"]
   },
   {
-    "name":"EBYS Kıbrıs 2025",
-    "longname":"e-İmzalarım",
+    "name":"EBYS On-Premise Kıbrıs 2025",
+    "longname":"EBDYS Kıbrıs",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebyskibris2025.json",
     "users":["*seneka.com.tr","lisani@denizlerbilisim.com"]
   },

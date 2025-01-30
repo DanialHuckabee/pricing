@@ -87,7 +87,7 @@
         "description": "1 yıllık güncelleme ve destek hizmeti dahildir. ",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 32000,
+        "priceOfProductItem": 62400,
         "childProductItems": [
           {
             "id": "EBDYSMOBILEANDROIDANDIOS",
@@ -112,28 +112,12 @@
                 "priceOfOneItem": 360
               }
             ]
-          },
-          {
-            "id": "EBDYSMOBILEMOBILEIMZATURKTELEKOM",
-            "name": "Mobil İmza-Türk Telekom",
-            "description": "Türk Telekom mobil imza entegrasyon fiyatıdır.",
-            "type": 0,
-            "unit": "",
-            "priceOfProductItem": 27328
-          },
-          {
-            "id": "EBDYSMOBILEMOBILEIMZAVODAFONE",
-            "name": "Mobil İmza-Vodafone",
-            "description": "Vodafone mobil imza entegrasyon fiyatıdır.",
-            "type": 0,
-            "unit": "",
-            "priceOfProductItem": 27328
           }
         ]
       },
       {
         "id": "KURULUM",
-        "name": "Ebys Kurulum",
+        "name": "EBDYS Kurulum",
         "description": "",
         "type": 0,
         "unit": "",
@@ -158,7 +142,7 @@
       {
         "id": "YERINDEDESTEKSEHIRDISI",
         "name": "Yerinde Destek-Şehir Dışı",
-        "description": "Ankara dışında verilecek olan yerinde destek fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
+        "description": "Ankara dışında verilecek olan yerinde destek fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir. Yerinde hizmetlerde yol ve konaklama Müşteri tarafından karşılanacaktır.",
         "type": 1,
         "unit": "adam/gün",
         "priceOfProductItem": 15600
@@ -174,10 +158,10 @@
       {
         "id": "EGITIMSEHIRDISI",
         "name": "Eğitim-Şehir Dışı",
-        "description": "Ankara dışında verilecek olan eğitim fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
+        "description": "Ankara dışında verilecek olan eğitim fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir. Yerinde hizmetlerde yol ve konaklama Müşteri tarafından karşılanacaktır.",
         "type": 1,
         "unit": "adam/gün",
-        "priceOfProductItem": 14300
+        "priceOfProductItem": 15600
       },
       {
         "id": "EKGELISTIRME",

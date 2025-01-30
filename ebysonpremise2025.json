@@ -87,7 +87,7 @@
         "description": "1 yıllık güncelleme ve destek hizmeti dahildir. ",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 40000,
+        "priceOfProductItem": 78000,
         "childProductItems": [
           {
             "id": "EBDYSMOBILEANDROIDANDIOS",
@@ -112,28 +112,12 @@
                 "priceOfOneItem": 450
               }
             ]
-          },
-          {
-            "id": "EBDYSMOBILEMOBILEIMZATURKTELEKOM",
-            "name": "Mobil İmza-Türk Telekom",
-            "description": "Türk Telekom mobil imza entegrasyon fiyatıdır.",
-            "type": 0,
-            "unit": "",
-            "priceOfProductItem": 34160
-          },
-          {
-            "id": "EBDYSMOBILEMOBILEIMZAVODAFONE",
-            "name": "Mobil İmza-Vodafone",
-            "description": "Vodafone mobil imza entegrasyon fiyatıdır.",
-            "type": 0,
-            "unit": "",
-            "priceOfProductItem": 34160
           }
         ]
       },
       {
         "id": "KURULUM",
-        "name": "Ebys Kurulum",
+        "name": "EBDYS Kurulum",
         "description": "",
         "type": 0,
         "unit": "",
@@ -156,8 +140,8 @@
         "priceOfProductItem": 50000
       },
       {
-        "id": "Detsis",
-        "name": "Detsis Entegrasyonu",
+        "id": "DETSIS",
+        "name": "DETSİS Entegrasyonu",
         "description": "",
         "type": 0,
         "unit": "",
@@ -198,7 +182,7 @@
       {
         "id": "YERINDEDESTEKSEHIRDISI",
         "name": "Yerinde Destek-Şehir Dışı",
-        "description": "Ankara dışında verilecek olan yerinde destek fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
+        "description": "Ankara dışında verilecek olan yerinde destek fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir. Yerinde hizmetlerde yol ve konaklama Müşteri tarafından karşılanacaktır.",
         "type": 1,
         "unit": "adam/gün",
         "priceOfProductItem": 19500
@@ -214,10 +198,10 @@
       {
         "id": "EGITIMSEHIRDISI",
         "name": "Eğitim-Şehir Dışı",
-        "description": "Ankara dışında verilecek olan eğitim fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir.",
+        "description": "Ankara dışında verilecek olan eğitim fiyatıdır. Adam/gün olarak ihtiyaç oranında alınabilir. Yerinde hizmetlerde yol ve konaklama Müşteri tarafından karşılanacaktır.",
         "type": 1,
         "unit": "adam/gün",
-        "priceOfProductItem": 17850
+        "priceOfProductItem": 19500
       },
       {
         "id": "EKGELISTIRME",
