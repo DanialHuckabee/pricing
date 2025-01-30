@@ -1,0 +1,208 @@
+{
+  "id": "OnaylarimOnPremise2025-Kıbrıs",
+  "name": "OnaylarimOnPremise2025-Kıbrıs",
+  "description": "30.01.2025 15:00 Bülent düzenledi.",
+  "date": "25 Ocak 2025",
+  "currency": "TL",
+  "productItems": [
+    {
+      "id": "KULLANICILISANSI",
+      "name": "Kullanıcı Lisansı ",
+      "description": "Lisans kapsamında kullanılabilecek maksimum kullanıcı lisansıdır. İhtiyaç durumunda ek kullanıcı lisansı alınabilir.",
+      "type": 2,
+      "unit": "",
+      "priceOfProductItem": 0,
+      "barems": [
+            {
+              "id": "50",
+              "packetSize": 50,
+              "priceOfOneItem": 334
+            },
+            {
+              "id" : "200",
+              "packetSize": 200,
+              "priceOfOneItem":300
+            },
+            {
+              "id" : "500",
+              "packetSize": 500,
+              "priceOfOneItem":266
+            },
+            {
+              "id" : "1000",
+              "packetSize": 1000,
+              "priceOfOneItem":250
+            },
+            {
+              "id" : "2000",
+              "packetSize": 2000,
+              "priceOfOneItem":174
+            }
+          ]    
+    },
+    {
+      "id": "SURECSAYISI",
+      "name": "Süreç Sayısı",
+      "description": "Lisans kapsamında kullanılabilecek maksimum süreç lisansıdır. İhtiyaç durumunda ek süreç alınabilir.",
+      "type": 2,
+      "unit": "",
+      "priceOfProductItem": 0,
+      "barems": [
+              {
+                "id": "50",
+                "packetSize": 50,
+                "priceOfOneItem": 85
+              },
+              {
+                "id" : "200",
+                "packetSize": 200,
+                "priceOfOneItem":76
+              },
+              {
+                "id" : "500",
+                "packetSize": 500,
+                "priceOfOneItem":68
+              },
+              {
+                "id" : "1000",
+                "packetSize": 1000,
+                "priceOfOneItem":64
+              },
+              {
+                  "id" : "2000",
+                  "packetSize": 2000,
+                  "priceOfOneItem":59
+              }
+            ]
+    },
+    {
+      "id": "KURUMSALLISANS",
+      "name": "Sınırsız Kullanıcı Lisans Paketi",
+      "description": "Sınırsız kullanıcı. 2000'den fazla kullanıcı için.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 480000
+     
+    },
+    {
+      "id": "KURUMSALSUREC",
+      "name": "Sınırsız Süreç Paketi",
+      "description": "Sınırsız süreç. 2000'den fazla süreç için.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 120000
+     
+    },
+    {
+      "id": "GELISMISSUREC",
+      "name": "Gelişmiş Süreçler",
+      "description": "Gelişmiş süreç ile seri ya da paralel imzalama yapılabilmesi sağlanmaktadır.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 39630
+     
+    },
+    {
+      "id": "EYP1.3",
+      "name": "e-Yazışma 1.3",
+      "description": "Kamu kurumlarına ya da özel şirketlere göndermek için e-Yazışma paketi oluşturulabilmesini sağlar.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 5230
+    },
+    {
+      "id": "KEP",
+      "name": "KEP Entegrasyonu",
+      "description": "KEP ile ileti gönderilmesini sağlar.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 11360
+    },
+    {
+      "id": "SFTP",
+      "name": "SFTP Entegrasyonu",
+      "description": "Bankalara e-imzalı talimat gönderilmesini sağlar.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 16630
+    },
+    {
+      "id": "DISKULLANICI",
+      "name": "Dış Kullanıcılar",
+      "description": "Onaylarım kullanıcısı olmayan kişilere e-imza atmaları için belge gönderilebilir.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 15300
+    },
+    {
+      "id": "DOGRULAMAPORTALI",
+      "name": "Doğrulama Portali",
+      "description": "e-İmzalı belgelerin doğrulanmasını sağlayan portaldir.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 15200
+    },
+    {
+      "id": "KURULUMVEGUNCELLEME",
+      "name": "Kurulum ve Güncelleme",
+      "description": "Sunucularınıza sistemin kurulması ve gerekli hallerde güncelleme yapılması hizmetidir.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 125600
+    },
+    {
+      "id": "DETSIS",
+      "name": "DETSİS Entegrasyonu ",
+      "description": "KAYSİS'te kayıtlı olan kurumlara ait bilgilerin otomatik olarak sisteme çekilmesini sağlar.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 15200
+    }
+    ,
+    {
+      "id": "SMSBILGILENDIRME",
+      "name": "SMS Bilgilendirme ",
+      "description": "",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 6510
+    }
+    ,
+    {
+      "id": "EGITIMDANISMANLIK",
+      "name": "Online Eğitim / Danışmanlık ",
+      "description": " Adam/gün oranında, ihtiyaç dahilinde alınabilir.",
+      "type": 1,
+      "unit": "",
+      "priceOfProductItem":6650
+    },
+    {
+      "id": "MOBILAPIGATEWAY",
+      "name": "Mobil ApiGateWay Entegrasyonu ",
+      "description": "Operatörlerle entegrasyon ihtiyacı olmadan mobil imza atmayı sağlar.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 28800
+    },
+    {
+      "id": "MOBILIMZA",
+      "name": "Mobil İmza Entegrasyonu",
+      "description": "Operatörler ile yapılacak mobil imza entegrasyonu Müşteri tarafından gerçekleştirilir.",
+      "type": 0,
+      "unit": "",
+      "priceOfProductItem": 19200
+    }
+  ],
+  "terms": [
+    {
+      "text": "Fiyatlandırma imza başına değil, süreç başına yapılmaktadır. Örnek olarak bir süreç içinde 1 veya 5 adet imzacı bulunması fark etmeksizin 1 süreç kontörü kullanılmış olur."
+    },
+  { "text": "Teklifimiz KDV hariç olarak verilmiştir. Faturalandırma aşamasında, teklifte yer alan uygun kalemler, 5035 sayılı Kanunun 11'inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olarak faturalandırılacaktır. Diğer kalemler için KDV oranı %20'dir." },
+  {
+    "text": "Teklifimize, sözleşme süresi boyunca Güncelleme ve Destek Hizmeti dahildir. Güncelleme ve Destek Hizmeti sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
+  },
+  { "text": "Güncelleme ve Destek kapsamına dahil olan hizmetler:", "children": [{ "text": "Telefonla destek" }, { "text": "Uzaktan erişim ile destek" }, { "text": "Sözleşme süresi boyunca güncelleme işlemleri" }, { "text" : "Sözleşme süresi boyunca hata gidermeleri" }, { "text": "Mevzuat değişiklerinin uyarlanması" }] },
+  { "text": "Teklifimizin uygun bulunması durumunda, teklif onayı kaşe imzalı olarak Seneka'ya iletilmelidir." }
+  
+] 
+}
