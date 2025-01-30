@@ -1,11 +1,20 @@
 {
     "id": "OnaylarimPrimeApiOnPremise2025",
     "name": "OnaylarimPrimeApiOnPremise2025",
-    "description": "29.01.2025 17:26 Bülent düzenledi.",
-    "date": "29 Ocak 2025",
+    "description": "30.01.2025 14:10 Bülent düzenledi.",
+    "date": "30 Ocak 2025",
     "currency": "TL",
     "productItems": [
       {
+        "id": "ONPREMISELISANS",
+        "name": "On-Premise 1 Yıllık Lisans ve Güncelleme Bedeli ",
+        "description": "Sistemin Müşteri bünyesindeki sunuculara kurulması durumunda talep edilir. SaaS kullanımlarda bu bedelin ödenmesine gerek yoktur. Bu bedelin her yıl ödenmesi gerekmektedir.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 250000
+      },
+      {
+        
         "id": "APISAYISI",
         "name": "On-Premise API Başına Yıllık Bedeli  ",
         "description": "Sisteme entegre olan her bir uygulama için ayrı bir API tanımı yapılmaktadır. Bu nedenle sisteme entegre olacak her bir uygulama için ayrı ücretlendirilir. Maksimum 100.000 imza atılabilir.",
@@ -37,7 +46,7 @@
       },
       {
         "id": "IMZASAYISI-500",
-        "name": "İmza Sayısı",
+        "name": "İmza Paketi 1  (500 adet)",
         "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
         "type": 0,
         "unit": "",
@@ -46,7 +55,7 @@
       },
       {
         "id": "IMZASAYISI-1000",
-        "name": "İmza Sayısı",
+        "name": "İmza Paketi 2 (1000 adet)",
         "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
         "type": 0,
         "unit": "",
@@ -55,7 +64,7 @@
       },
       {
         "id": "IMZASAYISI-2000",
-        "name": "İmza Sayısı",
+        "name": "İmza Paketi 3 (2000 adet)",
         "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
         "type": 0,
         "unit": "",
@@ -71,14 +80,7 @@
         "priceOfProductItem": 1
         
       },
-      {
-        "id": "ONPREMISELISANS",
-        "name": "On-Premise 1 Yıllık Lisans ve Güncelleme Bedeli ",
-        "description": "Sistemin Müşteri bünyesindeki sunuculara kurulması durumunda talep edilir. SaaS kullanımlarda bu bedelin ödenmesine gerek yoktur. Bu bedelin her yıl ödenmesi gerekmektedir.",
-        "type": 0,
-        "unit": "",
-        "priceOfProductItem": 250000
-      },
+      
       {
         "id": "KURULUM",
         "name": "Kurulum ",
@@ -89,7 +91,7 @@
       },
       {
         "id": "SINIRLIAPI",
-        "name": "On-Premise API Başına Yıllık Bedeli  (İmza Sınırlı)",
+        "name": "On-Premise API Başına Yıllık Bedeli  (İmza Saysı Sınırlı)",
         "description": "Alınan paket kapsamında kullanılabilecek imza paketi ayrıca satın alınmalıdır.",
         "type": 1,
         "unit": "",
