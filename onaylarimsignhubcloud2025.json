@@ -1,0 +1,111 @@
+{
+    "id": "OnaylarimSignHubCloud2025",
+    "name": "OnaylarimSignHubCloud2025",
+    "description": "30.01.2025 16:15 Bülent düzenledi.",
+    "date": "30 Ocak 2025",
+    "currency": "TL",
+    "productItems": [
+      {
+        "id": "CLOUDLISANS",
+        "name": "Cloud 1 Yıllık Lisans ve Güncelleme Bedeli ",
+        "description": "Sistemin BULUT sunuculara kurulmasıdurumunda talep edilir. Bu bedelin her yılödenmesi gerekmektedir.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 540000
+      },
+      {
+        
+        "id": "APISAYISI",
+        "name": "Cloud API Başına Yıllık Bedeli  ",
+        "description": "Sisteme entegre olan her bir uygulama için ayrı bir API tanımı yapılmaktadır. Bu nedenle sisteme entegre olacak her bir uygulama için ayrı ücretlendirilir. Maksimum 100.000 imza atılabilir.",
+        "type": 2,
+        "unit": "",
+        "priceOfProductItem": 0,
+        "barems": [
+              {
+                "id": "2",
+                "packetSize": 2,
+                "priceOfOneItem": 216000
+              },
+              {
+                "id" : "3",
+                "packetSize": 3,
+                "priceOfOneItem":194400
+              },
+              {
+                "id" : "4",
+                "packetSize": 4,
+                "priceOfOneItem":183600
+              },
+              {
+                "id" : "5",
+                "packetSize": 5,
+                "priceOfOneItem":172800
+              }
+            ]    
+      },
+      {
+        "id": "IMZASAYISI-500",
+        "name": "İmza Paketi 1  (500 adet)",
+        "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 24300
+        
+      },
+      {
+        "id": "IMZASAYISI-1000",
+        "name": "İmza Paketi 2 (1000 adet)",
+        "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 45360
+        
+      },
+      {
+        "id": "IMZASAYISI-2000",
+        "name": "İmza Paketi 3 (2000 adet)",
+        "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 84240
+        
+      },
+      {
+        "id": "IMZASAYISI",
+        "name": "İmza Sayısı",
+        "description": "100.000 adet imza üzerinde talep edilen imza alımları için birim fiyattır. İhtiyaç oranında alınabilir.",
+        "type": 1,
+        "unit": "",
+        "priceOfProductItem": 2.16
+        
+      },
+      
+      {
+        "id": "KURULUM",
+        "name": "Kurulum ",
+        "description": "Sunucularınıza sistemin kurulması hizmetidir.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem":0
+      },
+      {
+        "id": "SINIRLIAPI",
+        "name": "Cloud API Başına Yıllık Bedeli  (İmza Sayısı Sınırlı)",
+        "description": "Alınan paket kapsamında kullanılabilecek imza paketi ayrıca satın alınmalıdır.",
+        "type": 1,
+        "unit": "",
+        "priceOfProductItem": 43200
+      }
+    ],
+    "terms": [
+    
+    { "text": "Teklifimiz KDV hariç olarak verilmiştir. Faturalandırma aşamasında, teklifte yer alan uygun kalemler, 5035 sayılı Kanunun 11'inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olarak faturalandırılacaktır. Diğer kalemler için KDV oranı %20'dir." },
+    {
+      "text": "Teklifimize, sözleşme süresi boyunca Güncelleme ve Destek Hizmeti dahildir. Güncelleme ve Destek Hizmeti sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
+    },   
+    { "text": "Güncelleme ve Destek kapsamına dahil olan hizmetler:", "children": [{ "text": "Telefonla destek" }, { "text": "Uzaktan erişim ile destek" }, { "text": "Sözleşme süresi boyunca güncelleme işlemleri" }, { "text" : "Sözleşme süresi boyunca hata gidermeleri" }, { "text": "Mevzuat değişiklerinin uyarlanması" }] },
+    { "text": "Teklifimizin uygun bulunması durumunda, teklif onayı kaşe imzalı olarak Seneka'ya iletilmelidir." }
+    
+  ] 
+  }
