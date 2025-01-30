@@ -151,15 +151,6 @@
       "priceOfProductItem": 125600
     },
     {
-      "id": "DETSIS",
-      "name": "DETSİS Entegrasyonu ",
-      "description": "KAYSİS'te kayıtlı olan kurumlara ait bilgilerin otomatik olarak sisteme çekilmesini sağlar.",
-      "type": 0,
-      "unit": "",
-      "priceOfProductItem": 15200
-    }
-    ,
-    {
       "id": "SMSBILGILENDIRME",
       "name": "SMS Bilgilendirme ",
       "description": "",
