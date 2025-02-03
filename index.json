@@ -89,5 +89,11 @@
     "longname":"e-İmzalarım Cloud",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimcloud2025-kibris.json",
     "users":["*seneka.com.tr"]
+  },
+  {
+    "name":"Kıbrıs Onaylarım PrimeApi On-Premise",
+    "longname":"e-İmzalarım PrimeApi On-Premise",
+    "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapionpremise2025-kibris.json",
+    "users":["*seneka.com.tr"]
   }
 ]
