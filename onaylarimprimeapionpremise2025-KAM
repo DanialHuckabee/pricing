@@ -1,7 +1,7 @@
 {
-    "id": "OnaylarimPrimeApiOnPremise2025",
-    "name": "OnaylarimPrimeApiOnPremise2025",
-    "description": "03.02.2025 16:10 Bülent düzenledi.",
+    "id": "OnaylarimPrimeApiOnPremise2025-KAM",
+    "name": "OnaylarimPrimeApiOnPremise2025-KAM",
+    "description": "03.02.2025 16:00 Bülent düzenledi.",
     "date": "03 Şubat 2025",
     "currency": "TL",
     "productItems": [
@@ -11,12 +11,12 @@
         "description": "Sistemin Müşteri bünyesindeki sunuculara kurulması durumunda talep edilir. Bu bedelin her yıl ödenmesi gerekmektedir.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 250000
+        "priceOfProductItem": 200000
       },
       {
         
         "id": "APISAYISI",
-        "name": "API Lisansı(Maksimum 100000 imza)",
+        "name": "API Lisansı(Maksimum 100000 imza) ",
         "description": "Sisteme entegre olan her bir uygulama için ayrı bir API tanımı yapılmaktadır. Bu nedenle sisteme entegre olacak her bir uygulama için ayrı ücretlendirilir. Maksimum 100.000 imza atılabilir. Bu bedelin her yıl ödenmesi gerekmektedir.",
         "type": 2,
         "unit": "",
@@ -25,41 +25,40 @@
               {
                 "id": "2",
                 "packetSize": 2,
-                "priceOfOneItem": 100000
+                "priceOfOneItem": 80000
               },
               {
                 "id" : "3",
                 "packetSize": 3,
-                "priceOfOneItem":90000
+                "priceOfOneItem":72000
               },
               {
                 "id" : "4",
                 "packetSize": 4,
-                "priceOfOneItem":85000
+                "priceOfOneItem":68000
               },
               {
                 "id" : "5",
                 "packetSize": 5,
-                "priceOfOneItem":80000
+                "priceOfOneItem":64000
               }
             ]    
       },
-      
       {
         "id": "KURULUM",
         "name": "Kurulum ",
         "description": "Sunucularınıza sistemin kurulması hizmetidir.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem":50000
+        "priceOfProductItem":40000
       },
       {
         "id": "SINIRLIAPI",
-        "name": "API Lisansı  (İmza Sayısı Sınırlı)",
+        "name": "On-Premise API Başına Yıllık Bedeli  (İmza Sayısı Sınırlı)",
         "description": "Alınan paket kapsamında kullanılabilecek imza paketi ayrıca satın alınmalıdır.",
         "type": 1,
         "unit": "",
-        "priceOfProductItem": 20000,
+        "priceOfProductItem": 16000,
         "childProductItems": [
           
             {
@@ -68,7 +67,7 @@
               "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
               "type": 0,
               "unit": "",
-              "priceOfProductItem": 11250
+              "priceOfProductItem": 9000
               
             },
             {
@@ -77,7 +76,7 @@
               "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
               "type": 0,
               "unit": "",
-              "priceOfProductItem": 21000
+              "priceOfProductItem": 16800
               
             },
             {
@@ -86,10 +85,9 @@
               "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
               "type": 0,
               "unit": "",
-              "priceOfProductItem": 39000
+              "priceOfProductItem": 31200
               
             }
-          
         ]
       }
     ],
