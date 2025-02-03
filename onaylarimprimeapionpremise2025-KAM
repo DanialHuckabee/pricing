@@ -16,7 +16,7 @@
       {
         
         "id": "APISAYISI",
-        "name": "API Lisansı(Maksimum 100000 imza) ",
+        "name": "API Lisansı (Maksimum 100.000 imza) ",
         "description": "Sisteme entegre olan her bir uygulama için ayrı bir API tanımı yapılmaktadır. Bu nedenle sisteme entegre olacak her bir uygulama için ayrı ücretlendirilir. Maksimum 100.000 imza atılabilir. Bu bedelin her yıl ödenmesi gerekmektedir.",
         "type": 2,
         "unit": "",
@@ -56,7 +56,7 @@
         "id": "SINIRLIAPI",
         "name": "On-Premise API Başına Yıllık Bedeli  (İmza Sayısı Sınırlı)",
         "description": "Alınan paket kapsamında kullanılabilecek imza paketi ayrıca satın alınmalıdır.",
-        "type": 1,
+        "type": 0,
         "unit": "",
         "priceOfProductItem": 16000,
         "childProductItems": [
