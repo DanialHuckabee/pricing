@@ -54,7 +54,7 @@
       },
       {
         "id": "SINIRLIAPI",
-        "name": "On-Premise API Başına Yıllık Bedeli  (İmza Sayısı Sınırlı)",
+        "name": "API Lisansı (İmza Sayısı Sınırlı)",
         "description": "Alınan paket kapsamında kullanılabilecek imza paketi ayrıca satın alınmalıdır.",
         "type": 0,
         "unit": "",
@@ -104,5 +104,5 @@
     { "text": "Güncelleme ve Destek kapsamına dahil olan hizmetler:", "children": [{ "text": "Telefonla destek" }, { "text": "Uzaktan erişim ile destek" }, { "text": "Sözleşme süresi boyunca güncelleme işlemleri" }, { "text" : "Sözleşme süresi boyunca hata gidermeleri" }, { "text": "Mevzuat değişiklerinin uyarlanması" }] },
     { "text": "Teklifimizin uygun bulunması durumunda, teklif onayı kaşe imzalı olarak Seneka'ya iletilmelidir." }
     
-  ] 
-  }
+    ] 
+}
