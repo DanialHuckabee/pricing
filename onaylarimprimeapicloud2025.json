@@ -8,7 +8,7 @@
       {
         "id": "CLOUDLISANS",
         "name": "Yıllık Lisans ve Güncelleme Bedeli ",
-        "description": "Sistemin BULUT sunuculara kurulmasıdurumunda talep edilir. Bu bedelin her yıl ödenmesi gerekmektedir.",
+        "description": "Sistemin BULUT sunuculara kurulması durumunda talep edilir. Bu bedelin her yıl ödenmesi gerekmektedir.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 350000
@@ -47,7 +47,7 @@
       {
         "id": "KURULUM",
         "name": "Kurulum ",
-        "description": "Sunucularınıza sistemin kurulması hizmetidir.",
+        "description": "Sistemin kurulması hizmetidir.",
         "type": 0,
         "unit": "",
         "priceOfProductItem":0
