@@ -25,7 +25,7 @@
   },
   {
     "name":"Kıbrıs Onaylarım On-Premise",
-    "longname":"e-İmzalarım",
+    "longname":"e-İmzalarım On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimonpremise2025-Kibris.json",
     "users":["*seneka.com.tr","lisani@denizlerbilisim.com"]
   },
@@ -77,5 +77,17 @@
     "longname":"ONAYLARIM PrimeApi On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapionpremise2025-KAM.json",
     "users":["*seneka.com.tr","kerem@kambilgi.com.tr"]
+  },
+  {
+    "name":"KAM Onaylarım Cloud",
+    "longname":"ONAYLARIM Cloud",
+    "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimcloud2025-KAM.json",
+    "users":["*seneka.com.tr"]
+  },
+  {
+    "name":"Kıbrıs Onaylarım Cloud",
+    "longname":"e-İmzalarım Cloud",
+    "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimcloud2025-kibris.json",
+    "users":["*seneka.com.tr"]
   }
 ]

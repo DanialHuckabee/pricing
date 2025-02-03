@@ -1,8 +1,8 @@
 {
-    "id": "OnaylarimCloud2025",
-    "name": "OnaylarimCloud2025",
-    "description": "29.01.2025 17:00 Bülent düzenledi.",
-    "date": "29 Ocak 2025",
+    "id": "OnaylarimCloud2025-KAM",
+    "name": "OnaylarimCloud2025-KAM",
+    "description": "03.02.2025 17:30 Bülent düzenledi.",
+    "date": "03 Şubat 2025",
     "currency": "TL",
     "productItems": [
       {
@@ -16,27 +16,27 @@
               {
                 "id": "50",
                 "packetSize": 50,
-                "priceOfOneItem": 416
+                "priceOfOneItem": 334
               },
               {
                 "id" : "200",
                 "packetSize": 200,
-                "priceOfOneItem":375
+                "priceOfOneItem":300
               },
               {
                 "id" : "500",
                 "packetSize": 500,
-                "priceOfOneItem":332
+                "priceOfOneItem":266
               },
               {
                 "id" : "1000",
                 "packetSize": 1000,
-                "priceOfOneItem":312
+                "priceOfOneItem":250
               },
               {
                 "id" : "2000",
                 "packetSize": 2000,
-                "priceOfOneItem":218
+                "priceOfOneItem":174
               }
             ]    
       },
@@ -51,27 +51,27 @@
                 {
                   "id": "50",
                   "packetSize": 50,
-                  "priceOfOneItem": 106
+                  "priceOfOneItem": 85
                 },
                 {
                   "id" : "200",
                   "packetSize": 200,
-                  "priceOfOneItem":95
+                  "priceOfOneItem":76
                 },
                 {
                   "id" : "500",
                   "packetSize": 500,
-                  "priceOfOneItem":85
+                  "priceOfOneItem":68
                 },
                 {
                   "id" : "1000",
                   "packetSize": 1000,
-                  "priceOfOneItem":80
+                  "priceOfOneItem":64
                 },
                 {
                     "id" : "2000",
                     "packetSize": 2000,
-                    "priceOfOneItem":74
+                    "priceOfOneItem":59
                 }
               ]
       },
@@ -81,7 +81,7 @@
         "description": "Sınırsız kullanıcı. 2000'den fazla kullanıcı için.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 600000
+        "priceOfProductItem": 480000
        
       },
       {
@@ -90,7 +90,7 @@
         "description": "Sınırsız süreç. 2000'den fazla süreç için.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 150000
+        "priceOfProductItem": 120000
        
       },
       {
@@ -99,7 +99,7 @@
         "description": "Gelişmiş süreç ile seri ya da paralel imzalama yapılabilmesi sağlanmaktadır.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 8257
+        "priceOfProductItem": 6610
        
       },
       {
@@ -108,7 +108,7 @@
         "description": "Kamu kurumlarına ya da özel şirketlere göndermek için e-Yazışma paketi oluşturulabilmesini sağlar.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 6534
+        "priceOfProductItem": 5230
       },
       {
         "id": "KEP",
@@ -116,7 +116,7 @@
         "description": "KEP ile ileti gönderilmesini sağlar.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 7128
+        "priceOfProductItem": 5700
       },
       {
         "id": "SFTP",
@@ -124,7 +124,7 @@
         "description": "Bankalara e-imzalı talimat gönderilmesini sağlar.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 10395
+        "priceOfProductItem": 8320
       },
       {
         "id": "DISKULLANICI",
@@ -132,7 +132,7 @@
         "description": "Onaylarım kullanıcısı olmayan kişilere e-imza atmaları için belge gönderilebilir.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 19127
+        "priceOfProductItem": 15300
       },
       {
         "id": "DOGRULAMAPORTALI",
@@ -165,7 +165,7 @@
         "description": "",
         "type": 0,
         "unit": "",
-        "priceOfProductItem": 4040
+        "priceOfProductItem": 3235
       },
       {
         "id": "EGITIMDANISMANLIK",
@@ -173,7 +173,7 @@
         "description": " Adam/gün oranında, ihtiyaç dahilinde alınabilir.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem":8310
+        "priceOfProductItem":6650
       },
       {
         "id": "UZAKTANIMZA",
@@ -181,7 +181,7 @@
         "description": "Kullanıcı bilgisayarında takılı e-imza sertifikasına uzaktan erişerek imza atılabilmesini sağlar.",
         "type": 0,
         "unit": "",
-        "priceOfProductItem":14000
+        "priceOfProductItem":11200
       }
     ],
     "terms": [
