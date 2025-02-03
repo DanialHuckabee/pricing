@@ -145,7 +145,7 @@
       {
         "id": "KURULUMVEGUNCELLEME",
         "name": "Kurulum ve Güncelleme",
-        "description": "Sunucularınıza sistemin kurulması ve gerekli hallerde güncelleme yapılması hizmetidir.",
+        "description": "Sistemin kurulması ve gerekli hallerde güncelleme yapılması hizmetidir.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 0
