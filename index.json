@@ -18,13 +18,13 @@
     "users":["*seneka.com.tr"]
   },
   {
-    "name":"EBYS On-Premise Kıbrıs 2025",
+    "name":"Kıbrıs EBYS On-Premise 2025",
     "longname":"EBDYS Kıbrıs",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebyskibris2025.json",
     "users":["*seneka.com.tr","lisani@denizlerbilisim.com"]
   },
   {
-    "name":"Onaylarım On-Premise Kıbrıs 2025",
+    "name":"Kıbrıs Onaylarım On-Premise 2025",
     "longname":"e-İmzalarım",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimonpremise2025-Kibris.json",
     "users":["*seneka.com.tr","lisani@denizlerbilisim.com"]
@@ -36,8 +36,8 @@
     "users":["*seneka.com.tr"]
   },
   {
-    "name":"Onaylarım On-Premise 2025-KAM Teknoloji",
-    "longname":"ONAYLARIM On-Premise-KAM Teknoloji",
+    "name":"KAM Onaylarım On-Premise",
+    "longname":"ONAYLARIM On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimonpremise2025-KAM.json",
     "users":["*seneka.com.tr","kerem@kambilgi.com.tr"]
   },
@@ -48,33 +48,33 @@
     "users":["*seneka.com.tr"]
   },
   {
-    "name":"Onaylarım PrimeApi On-Premise 2025",
+    "name":"PrimeApi On-Premise",
     "longname":"ONAYLARIM PrimeApi On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapionpremise2025.json",
     "users":["*seneka.com.tr"]
   },
   {
-    "name":"Onaylarım PrimeApi Cloud 2025",
+    "name":"PrimeApi Cloud",
     "longname":"ONAYLARIM PrimeApi Cloud",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapicloud2025.json",
     "users":["*seneka.com.tr"]
   },
   {
-    "name":"Onaylarım SignHub On-Premise 2025",
+    "name":"SignHub On-Premise",
     "longname":"ONAYLARIM SignHub On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimsignhubonpremise2025.json",
     "users":["*seneka.com.tr"]
   }
   ,
   {
-    "name":"Onaylarım SignHub Cloud 2025",
+    "name":"SignHub Cloud",
     "longname":"ONAYLARIM SignHub Cloud",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimsignhubcloud2025.json",
     "users":["*seneka.com.tr"]
   } ,
   {
-    "name":"Onaylarım PrimeApi On-Premise 2025-KAM Teknoloji",
-    "longname":"ONAYLARIM PrimeApi On-Premise - KAM Teknoloji",
+    "name":"KAM PrimeApi On-Premise",
+    "longname":"ONAYLARIM PrimeApi On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapionpremise2025-KAM.json",
     "users":["*seneka.com.tr","kerem@kambilgi.com.tr"]
   }
