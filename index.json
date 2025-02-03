@@ -18,19 +18,19 @@
     "users":["*seneka.com.tr"]
   },
   {
-    "name":"Kıbrıs EBYS On-Premise 2025",
+    "name":"Kıbrıs EBYS On-Premise",
     "longname":"EBDYS Kıbrıs",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/ebyskibris2025.json",
     "users":["*seneka.com.tr","lisani@denizlerbilisim.com"]
   },
   {
-    "name":"Kıbrıs Onaylarım On-Premise 2025",
+    "name":"Kıbrıs Onaylarım On-Premise",
     "longname":"e-İmzalarım",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimonpremise2025-Kibris.json",
     "users":["*seneka.com.tr","lisani@denizlerbilisim.com"]
   },
   {
-    "name":"Onaylarım On-Premise 2025",
+    "name":"Onaylarım On-Premise",
     "longname":"ONAYLARIM On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimonpremise2025.json",
     "users":["*seneka.com.tr"]
@@ -42,7 +42,7 @@
     "users":["*seneka.com.tr","kerem@kambilgi.com.tr"]
   },
   {
-    "name":"Onaylarım Cloud 2025",
+    "name":"Onaylarım Cloud",
     "longname":"ONAYLARIM Cloud",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimcloud2025.json",
     "users":["*seneka.com.tr"]
