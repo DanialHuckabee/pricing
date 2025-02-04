@@ -39,7 +39,7 @@
     "name":"KAM Onaylarım On-Premise",
     "longname":"ONAYLARIM On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimonpremise2025-KAM.json",
-    "users":["*seneka.com.tr","kerem@kambilgi.com.tr"]
+    "users":["*seneka.com.tr","kerem@kambilgi.com.tr","gurkan@kambilgi.com.tr"]
   },
   {
     "name":"Onaylarım Cloud",
@@ -76,7 +76,7 @@
     "name":"KAM PrimeApi On-Premise",
     "longname":"ONAYLARIM PrimeAPI On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapionpremise2025-KAM.json",
-    "users":["*seneka.com.tr","kerem@kambilgi.com.tr"]
+    "users":["*seneka.com.tr","kerem@kambilgi.com.tr","gurkan@kambilgi.com.tr"]
   },
   {
     "name":"KAM Onaylarım Cloud",
