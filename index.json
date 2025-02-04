@@ -101,5 +101,11 @@
     "longname":"e-İmzalarım PrimeAPI Cloud",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapicloud2025-kibris.json",
     "users":["*seneka.com.tr"]
+  },
+  {
+    "name":"Kıbrıs Onaylarım PrimeAPI Cloud",
+    "longname":"e-İmzalarım PrimeAPI Cloud",
+    "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapicloud2025-KAM.json",
+    "users":["*seneka.com.tr"]
   }
 ]
