@@ -119,5 +119,11 @@
     "longname":"e-İmzalarım SignHub On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimsignhubonpremise2025-kibris.json",
     "users":["*seneka.com.tr"]
+  },
+  {
+    "name":"KAM SignHub On-Premise",
+    "longname":"Onaylarım SignHub On-Premise",
+    "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimsignhubonpremise2025-KAM.json",
+    "users":["*seneka.com.tr"]
   }
 ]
