@@ -17,7 +17,7 @@
         
         "id": "APISAYISI",
         "name": "API Lisansı (Maksimum 100.000 imza) ",
-        "description": "Sisteme entegre olan her bir uygulama için ayrı bir API tanımı yapılmaktadır. Bu nedenle sisteme entegre olacak her bir uygulama için ayrı ücretlendirilir. Maksimum 100.000 imza atılabilir.",
+        "description": "Sisteme entegre olan her bir uygulama için ayrı bir API tanımı yapılmaktadır. Bu nedenle sisteme entegre olacak her bir uygulama için ayrı ücretlendirilir. Maksimum 100.000 imza atılabilir. Bu bedelin her yıl ödenmesi gerekmektedir.",
         "type": 2,
         "unit": "",
         "priceOfProductItem": 0,

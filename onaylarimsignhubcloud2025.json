@@ -7,8 +7,8 @@
     "productItems": [
       {
         "id": "CLOUDLISANS",
-        "name": "Cloud 1 Yıllık Lisans ve Güncelleme Bedeli ",
-        "description": "Sistemin BULUT sunuculara kurulmasıdurumunda talep edilir. Bu bedelin her yılödenmesi gerekmektedir.",
+        "name": "Yıllık Lisans ve Güncelleme Bedeli ",
+        "description": "Sistemin BULUT sunuculara kurulması durumunda talep edilir. Bu bedelin her yıl ödenmesi gerekmektedir.",
         "type": 0,
         "unit": "",
         "priceOfProductItem": 540000
@@ -16,8 +16,8 @@
       {
         
         "id": "APISAYISI",
-        "name": "Cloud API Başına Yıllık Bedeli  ",
-        "description": "Sisteme entegre olan her bir uygulama için ayrı bir API tanımı yapılmaktadır. Bu nedenle sisteme entegre olacak her bir uygulama için ayrı ücretlendirilir. Maksimum 100.000 imza atılabilir.",
+        "name": "API Lisansı (Maksimum 100.000 imza)",
+        "description": "Sisteme entegre olan her bir uygulama için ayrı bir API tanımı yapılmaktadır. Bu nedenle sisteme entegre olacak her bir uygulama için ayrı ücretlendirilir. Maksimum 100.000 imza atılabilir. Bu bedelin her yıl ödenmesi gerekmektedir.",
         "type": 2,
         "unit": "",
         "priceOfProductItem": 0,
@@ -45,57 +45,49 @@
             ]    
       },
       {
-        "id": "IMZASAYISI-500",
-        "name": "İmza Paketi 1  (500 adet)",
-        "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
-        "type": 0,
-        "unit": "",
-        "priceOfProductItem": 24300
-        
-      },
-      {
-        "id": "IMZASAYISI-1000",
-        "name": "İmza Paketi 2 (1000 adet)",
-        "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
-        "type": 0,
-        "unit": "",
-        "priceOfProductItem": 45360
-        
-      },
-      {
-        "id": "IMZASAYISI-2000",
-        "name": "İmza Paketi 3 (2000 adet)",
-        "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
-        "type": 0,
-        "unit": "",
-        "priceOfProductItem": 84240
-        
-      },
-      {
-        "id": "IMZASAYISI",
-        "name": "İmza Sayısı",
-        "description": "100.000 adet imza üzerinde talep edilen imza alımları için birim fiyattır. İhtiyaç oranında alınabilir.",
-        "type": 1,
-        "unit": "",
-        "priceOfProductItem": 3
-        
-      },
-      
-      {
         "id": "KURULUM",
         "name": "Kurulum ",
-        "description": "Sunucularınıza sistemin kurulması hizmetidir.",
+        "description": "Sistemin kurulması hizmetidir.",
         "type": 0,
         "unit": "",
         "priceOfProductItem":0
       },
       {
         "id": "SINIRLIAPI",
-        "name": "Cloud API Başına Yıllık Bedeli  (İmza Sayısı Sınırlı)",
+        "name": "API Lisansı(İmza Sayısı Sınırlı)",
         "description": "Alınan paket kapsamında kullanılabilecek imza paketi ayrıca satın alınmalıdır.",
-        "type": 1,
+        "type": 0,
         "unit": "",
-        "priceOfProductItem": 43200
+        "priceOfProductItem": 43200,
+        "childProductItems": [
+          {
+            "id": "IMZASAYISI-500",
+            "name": "İmza Paketi 1  (500 adet)",
+            "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
+            "type": 0,
+            "unit": "",
+            "priceOfProductItem": 24300
+            
+          },
+          {
+            "id": "IMZASAYISI-1000",
+            "name": "İmza Paketi 2 (1000 adet)",
+            "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
+            "type": 0,
+            "unit": "",
+            "priceOfProductItem": 45360
+            
+          },
+          {
+            "id": "IMZASAYISI-2000",
+            "name": "İmza Paketi 3 (2000 adet)",
+            "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
+            "type": 0,
+            "unit": "",
+            "priceOfProductItem": 84240
+            
+          }
+        ]
       }
     ],
     "terms": [
