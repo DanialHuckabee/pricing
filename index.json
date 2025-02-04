@@ -49,13 +49,13 @@
   },
   {
     "name":"PrimeApi On-Premise",
-    "longname":"ONAYLARIM PrimeApi On-Premise",
+    "longname":"ONAYLARIM PrimeAPI On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapionpremise2025.json",
     "users":["*seneka.com.tr"]
   },
   {
-    "name":"PrimeApi Cloud",
-    "longname":"ONAYLARIM PrimeApi Cloud",
+    "name":"PrimeAPI Cloud",
+    "longname":"ONAYLARIM PrimeAPI Cloud",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapicloud2025.json",
     "users":["*seneka.com.tr"]
   },
@@ -74,7 +74,7 @@
   } ,
   {
     "name":"KAM PrimeApi On-Premise",
-    "longname":"ONAYLARIM PrimeApi On-Premise",
+    "longname":"ONAYLARIM PrimeAPI On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapionpremise2025-KAM.json",
     "users":["*seneka.com.tr","kerem@kambilgi.com.tr"]
   },
@@ -91,9 +91,15 @@
     "users":["*seneka.com.tr"]
   },
   {
-    "name":"Kıbrıs Onaylarım PrimeApi On-Premise",
-    "longname":"e-İmzalarım PrimeApi On-Premise",
+    "name":"Kıbrıs Onaylarım PrimeAPI On-Premise",
+    "longname":"e-İmzalarım PrimeAPI On-Premise",
     "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapionpremise2025-kibris.json",
+    "users":["*seneka.com.tr"]
+  },
+  {
+    "name":"Kıbrıs Onaylarım PrimeAPI Cloud",
+    "longname":"e-İmzalarım PrimeAPI Cloud",
+    "url" : "https://raw.githubusercontent.com/DanialHuckabee/pricing/main/onaylarimprimeapicloud2025-kibris.json",
     "users":["*seneka.com.tr"]
   }
 ]
