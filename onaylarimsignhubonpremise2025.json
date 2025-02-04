@@ -56,7 +56,7 @@
         "id": "SINIRLIAPI",
         "name": "API Lisansı (İmza Sayısı Sınırlı)",
         "description": "Alınan paket kapsamında kullanılabilecek imza paketi ayrıca satın alınmalıdır.",
-        "type": 1,
+        "type": 0,
         "unit": "",
         "priceOfProductItem": 24000,
         "childProductItems": [
