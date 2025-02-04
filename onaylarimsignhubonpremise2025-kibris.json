@@ -1,0 +1,108 @@
+{
+    "id": "OnaylarimSignHubOnPremise2025-Kibris",
+    "name": "OnaylarimSignHubOnPremise2025-Kibris",
+    "description": "04.02.2025 10:10 Bülent düzenledi.",
+    "date": "04 Şubat 2025",
+    "currency": "TL",
+    "productItems": [
+      {
+        "id": "ONPREMISELISANS",
+        "name": "Yıllık Lisans ve Güncelleme Bedeli ",
+        "description": "Sistemin Müşteri bünyesindeki sunuculara kurulması durumunda talep edilir. Bu bedelin her yıl ödenmesi gerekmektedir.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 240000
+      },
+      {
+        
+        "id": "APISAYISI",
+        "name": "API Lisansı (Maksimum 100.000 imza) ",
+        "description": "Sisteme entegre olan her bir uygulama için ayrı bir API tanımı yapılmaktadır. Bu nedenle sisteme entegre olacak her bir uygulama için ayrı ücretlendirilir. Maksimum 100.000 imza atılabilir. Bu bedelin her yıl ödenmesi gerekmektedir.",
+        "type": 2,
+        "unit": "",
+        "priceOfProductItem": 0,
+        "barems": [
+              {
+                "id": "2",
+                "packetSize": 2,
+                "priceOfOneItem": 96000
+              },
+              {
+                "id" : "3",
+                "packetSize": 3,
+                "priceOfOneItem":86400
+              },
+              {
+                "id" : "4",
+                "packetSize": 4,
+                "priceOfOneItem":81600
+              },
+              {
+                "id" : "5",
+                "packetSize": 5,
+                "priceOfOneItem":76800
+              }
+            ]    
+      },
+      {
+        "id": "KURULUM",
+        "name": "Kurulum ",
+        "description": "Sunucularınıza sistemin kurulması hizmetidir.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem":48000
+      },
+      {
+        "id": "SINIRLIAPI",
+        "name": "API Lisansı (İmza Sayısı Sınırlı)",
+        "description": "Alınan paket kapsamında kullanılabilecek imza paketi ayrıca satın alınmalıdır.",
+        "type": 0,
+        "unit": "",
+        "priceOfProductItem": 19200,
+        "childProductItems": [
+          
+          {
+            "id": "IMZASAYISI-500",
+            "name": "İmza Paketi 1  (500 adet)",
+            "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
+            "type": 0,
+            "unit": "",
+            "priceOfProductItem": 10800
+            
+          },
+          {
+            "id": "IMZASAYISI-1000",
+            "name": "İmza Paketi 2 (1000 adet)",
+            "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
+            "type": 0,
+            "unit": "",
+            "priceOfProductItem": 20160
+            
+          },
+          {
+            "id": "IMZASAYISI-2000",
+            "name": "İmza Paketi 3 (2000 adet)",
+            "description": "Alınan paket kapsamında kullanılabilecek maksimum imza adedidir. 2.000 imza üzeri alımlar için sınırsız pakete geçilmelidir.",
+            "type": 0,
+            "unit": "",
+            "priceOfProductItem": 37440
+            
+          }
+        ]
+      }
+    ],
+    "terms": [
+    
+    { "text": "Teklifimiz KDV hariç olarak verilmiştir. Faturalandırma aşamasında, teklifte yer alan uygun kalemler, 5035 sayılı Kanunun 11'inci maddesi ile değiştirilen 3065 sayılı Katma Değer Vergisi Kanununun Geçici 20 inci maddesi hükümleri kapsamında KDV’den muaf olarak faturalandırılacaktır. Diğer kalemler için KDV oranı %20'dir." },
+    {
+      "text": "Teklifimize, sözleşme süresi boyunca Güncelleme ve Destek Hizmeti dahildir. Güncelleme ve Destek Hizmeti sözleşme imzalanması ile başlar. Güncelleme ve destek hizmetleri uzaktan erişim ile yapılacaktır."
+    },
+    {
+      "text": "Kurum tarafından mobil imza atabilmek için Turkcell - Vodafone - Türk Telekom mobil imza servislerine erişim sağlanmalıdır."
+    },
+    { "text": "Zaman damgası hizmeti kurum tarafından sağlanacaktır." },
+    { "text": "Güncelleme ve Destek kapsamına dahil olan hizmetler:", "children": [{ "text": "Telefonla destek" }, { "text": "Uzaktan erişim ile destek" }, { "text": "Sözleşme süresi boyunca güncelleme işlemleri" }, { "text" : "Sözleşme süresi boyunca hata gidermeleri" }, { "text": "Mevzuat değişiklerinin uyarlanması" }] },
+    { "text": "Teklifimizin uygun bulunması durumunda, teklif onayı kaşe imzalı olarak Seneka'ya iletilmelidir." }
+    
+  ] 
+  }
