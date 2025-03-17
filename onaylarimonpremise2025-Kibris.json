@@ -1,8 +1,8 @@
 {
   "id": "OnaylarimOnPremise2025-Kıbrıs",
   "name": "OnaylarimOnPremise2025-Kıbrıs",
-  "description": "30.01.2025 15:00 Bülent düzenledi.",
-  "date": "25 Ocak 2025",
+  "description": "17.03.2025 16:00 Bülent düzenledi.",
+  "date": "17 Mart 2025",
   "currency": "TL",
   "productItems": [
     {
@@ -173,7 +173,7 @@
       "description": "Operatörlerle entegrasyon ihtiyacı olmadan mobil imza atmayı sağlar.",
       "type": 0,
       "unit": "",
-      "priceOfProductItem": 28800
+      "priceOfProductItem": 32000
     },
     {
       "id": "MOBILIMZA",
@@ -181,7 +181,7 @@
       "description": "Operatörler ile yapılacak mobil imza entegrasyonu Müşteri tarafından gerçekleştirilir.",
       "type": 0,
       "unit": "",
-      "priceOfProductItem": 19200
+      "priceOfProductItem": 16000
     }
   ],
   "terms": [
